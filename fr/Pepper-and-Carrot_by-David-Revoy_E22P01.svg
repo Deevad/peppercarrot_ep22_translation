@@ -53,15 +53,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
      inkscape:cx="793.06383"
-     inkscape:cy="2298.2704"
-     inkscape:window-x="56"
-     inkscape:window-y="31"
+     inkscape:cy="1723.2704"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -70,13 +70,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/vincent/Documents/perso/dev/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,7 +111,7 @@
          sodipodi:role="line"
          id="tspan3346"
          x="431.3956"
-         y="1954.3196">Nous y sommes!</tspan><tspan
+         y="1954.3196">Nous y sommes !</tspan><tspan
          sodipodi:role="line"
          id="tspan3348"
          x="439.30576"
@@ -119,7 +119,7 @@
          sodipodi:role="line"
          id="tspan3350"
          x="431.3956"
-         y="2066.8196">peut enfin commencer!</tspan></text>
+         y="2066.8196">peut enfin commencer !</tspan></text>
     <text
        sodipodi:linespacing="0%"
        xml:space="preserve"
