@@ -315,8 +315,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1462.2094"
-     inkscape:cy="962.7022"
+     inkscape:cx="1411.8969"
+     inkscape:cy="1847.6949"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -329,11 +329,11 @@
     <image
        sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -417,7 +417,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 135.79456,1200.6832 c 0.97728,-37.0606 37.03811,-70.3849 200.86055,-64.4369 163.82244,5.948 217.61999,9.941 217.95506,60.4716 0.35067,52.8833 -81.11461,65.3212 -205.11294,67.3683 -127.82886,2.1104 -213.19675,-19.3808 -213.70267,-63.403 z"
+       d="m 178.91956,1200.6832 c 0.77602,-37.0606 29.41058,-70.3849 159.49587,-64.4369 130.08528,5.948 172.80391,9.941 173.06998,60.4716 0.27845,52.8833 -64.41009,65.3212 -162.87254,67.3683 -101.50412,2.1104 -169.29158,-19.3808 -169.69331,-63.403 z"
        id="path3280"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
