@@ -502,15 +502,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1227.4963"
-     inkscape:cy="886.11656"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="1189.4528"
+     inkscape:cy="2085.5585"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -519,13 +519,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -567,7 +567,7 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="408.73834"
          y="845.59491"
-         id="tspan3499">...Et c'est à Camomille</tspan><tspan
+         id="tspan3499">Et c'est à Camomille</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="408.73834"
@@ -612,7 +612,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.7641716px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="398.35193"
          y="1040.2164"
-         id="tspan4161-7">SYLVESTRIS!</tspan><tspan
+         id="tspan4161-7">SYLVESTRIS !</tspan><tspan
          sodipodi:role="line"
          style="font-size:56.7641716px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="398.35193"
@@ -632,7 +632,7 @@
          y="1584.5073"
          style="font-size:70px;fill:#e0ffa1;fill-opacity:1;stroke:#ffffff;stroke-width:0.65164882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            style="font-size:93.14950562px;fill:#e0ffa1;fill-opacity:1;stroke:#ffffff;stroke-width:0.65164882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4315-8-9-2">Bam!</tspan></tspan></text>
+           id="tspan4315-8-9-2">Bam !</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.65589893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-5);"

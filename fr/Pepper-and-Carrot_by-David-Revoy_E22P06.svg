@@ -1303,15 +1303,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1446.5134"
-     inkscape:cy="813.45108"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="2193.6789"
+     inkscape:cy="583.94292"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -1320,13 +1320,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1465,12 +1465,12 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="608.28369"
+       width="649.58801"
        height="202.54323"
-       x="177.48636"
+       x="160.09506"
        y="139.80855"
        ry="59.471672"
-       rx="46.839882" />
+       rx="50.020454" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 137.78164,114.1268 c -2.26649,25.82279 8.71397,36.08371 14.2253,40.40328 2.26971,-1.03908 11.47004,-18.18406 11.47004,-18.18406 0,0 12.95776,37.68521 23.50024,40.17102 6.21214,1.46471 19.02856,-17.33036 19.02856,-17.33036 -2.13689,2.99903 -40.07366,-34.078 -39.73148,-43.84826 -6.26809,3.57883 -13.69909,17.63759 -15.46656,19.53988 -7.08112,-0.99516 -14.19625,-12.57886 -13.0261,-20.7515 z"
@@ -1488,19 +1488,19 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="480.32086"
+         x="488.23102"
          y="199.61703"
-         id="tspan4478">Très bon score Camomille!</tspan><tspan
+         id="tspan4341">Camomille obtient un très bon </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="480.32086"
+         x="488.23102"
          y="255.86703"
-         id="tspan4341">C'est à présent au tour</tspan><tspan
+         id="tspan4445">score ! C'est à présent au </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="480.32086"
          y="312.11703"
-         id="tspan4445">de Shichimi!</tspan></text>
+         id="tspan4454">tour de Shichimi !</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4552);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4265-7);enable-background:accumulate"
        d="m 213.49778,207.92788 c -35.48977,-11.8529 10.70226,-23.10032 34.17718,-35.79169 23.47491,-12.69136 24.23271,-26.82668 69.31583,-30.0671 84.1072,-6.04532 696.79851,-21.84774 735.54961,-2.24684 38.751,19.601 53.3013,7.11522 55.2886,46.31702 1.9872,39.2018 -280.09703,40.15044 -368.52883,37.35034 -88.4319,-2.8002 -256.32624,12.81654 -340.37668,5.98599 -88.6791,-7.20671 -147.99848,-0.19474 -185.42571,-21.54772 z"
@@ -1522,16 +1522,16 @@
          id="tspan4341-5">LUX...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.68892479px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.68892479px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none"
        x="1745.0958"
        y="1183.5892"
        id="text4246-2-3-1-3-9-9-3-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#8f5902;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#8f5902;fill-opacity:1"
          x="1745.0958"
          y="1183.5892"
-         id="tspan4341-5-7">MAXIMA!</tspan></text>
+         id="tspan4341-5-7">MAXIMA !</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 755.75493,1706.3502 c 4.71801,-4.677 25.10847,-18.3882 22.10929,-1.3929 32.75968,-19.6102 55.6107,-9.5094 79.02487,-1.0974 8.11438,-6.0745 11.31497,-16.2186 31.89745,-11.9674 -1.40254,-6.8505 6.79581,-10.7538 23.56099,-12.0276 -20.48625,-5.863 -23.44491,-10.3144 17.39467,-11.2386 -30.17768,-3.0867 -58.22428,-6.446 -19.12628,-18.3959 -11.05839,-1.3434 -40.48209,8.9097 -19.42587,-26.8073 -21.95821,10.0978 -43.93942,14.8037 -63.72824,-12.1261 -10.19182,9.0519 -23.53134,14.5968 -43.04799,-0.6889 -7.1424,9.2459 -34.68733,7.6438 -44.28816,4.7938 17.7268,12.6017 15.4357,19.2612 -12.36387,17.8853 41.58047,23.5576 4.51926,17.3017 -4.10096,21.5922 34.6858,9.9062 16.4725,16.8324 8.03885,24.5906 41.63207,3.9481 24.81851,16.0971 24.05525,26.8802 z"
@@ -1549,7 +1549,7 @@
          style="font-size:45px"
          x="819.75671"
          y="1673.9493"
-         id="tspan4341-1">Ha!!</tspan></text>
+         id="tspan4341-1">Ah !!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1561,7 +1561,7 @@
          style="font-size:45px"
          x="1142.2045"
          y="2182.5535"
-         id="tspan4341-1-2">mes yeux !!!</tspan></text>
+         id="tspan4341-1-2">Mes yeux !!!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 348.86252,1895.4334 c -6.13885,10.3972 -89.0034,97.6042 -76.91643,51.5251 -33.09527,34.7226 -43.50091,27.5251 -62.14192,-0.4761 -0.49201,23.9419 -6.92714,36.6459 -32.44055,23.1816 11.47674,11.2807 11.35043,28.0018 -18.75016,24.4279 21.03136,3.4269 24.49032,7.5017 -15.9609,13.1959 30.33159,-0.4639 58.5786,-0.4078 21.14649,16.0328 11.13962,0.041 39.16225,-13.5831 22.42778,24.3514 20.62655,-12.5966 41.90653,-19.841 64.70909,4.5896 9.06323,-10.1818 21.66269,-17.2487 42.83313,-4.3504 6.01205,-10.0179 33.55531,-11.6482 43.42359,-9.9407 -19.07897,-10.442 -17.58245,-17.3237 10.18725,-19.2085 -44.05026,-18.533 -6.51174,-16.6545 1.54753,-21.9237 -35.60633,-5.7816 -18.32808,-14.7903 -10.85966,-23.4816 -79.73537,25.4892 4.82605,-62.9374 10.79476,-77.9233 z"
@@ -1579,7 +1579,7 @@
          style="font-size:45px"
          x="257.68674"
          y="2020.4244"
-         id="tspan4341-1-3">Hi!!</tspan></text>
+         id="tspan4341-1-3">Hiii !!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1633,24 +1633,24 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2005.8556"
+         x="2013.7657"
          y="2383.7524"
-         id="tspan4341-6">La sanction du publique</tspan><tspan
+         id="tspan4883">La sanction du public est </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2005.8556"
+         x="2013.7657"
          y="2440.0024"
-         id="tspan4883">est directe! Que cela serve de</tspan><tspan
+         id="tspan4466">sans appel ! Que cela serve </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2005.8556"
+         x="2013.7657"
          y="2496.2524"
-         id="tspan4887">leçon aux suivantes. C'est le</tspan><tspan
+         id="tspan4468">de leçon aux suivantes. C'est à </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2005.8556"
          y="2552.5024"
-         id="tspan4367">tour de Spiruline à présent!</tspan></text>
+         id="tspan4367">présent le tour de Spiruline !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.33470154px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-3)"
@@ -1694,12 +1694,12 @@
        y="1584.5073"
        id="text4580-1-7-3-6-9"
        sodipodi:linespacing="125%"
-       transform="matrix(0.71367437,-0.24008968,-0.13175481,0.92241152,1291.2405,1999.9638)"><tspan
+       transform="matrix(0.71367437,-0.24008968,-0.13175481,0.92241152,1291.2405,1981.9638)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.26322591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.26322591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1)"
@@ -1707,12 +1707,12 @@
        y="1584.5073"
        id="text4580-1-7-3-6-9-4"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1340.2437,1957.6409)"><tspan
+       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1340.2437,1949.6409)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-5"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
@@ -1737,12 +1737,12 @@
        y="1584.5073"
        id="text4580-1-7-3-6-9-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,1958.3737,2072.7756)"><tspan
+       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,1946.3737,2072.7756)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-0"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6)"
@@ -1750,12 +1750,12 @@
        y="1584.5073"
        id="text4580-1-7-3-6-9-4-7"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1075.0036,1718.065)"><tspan
+       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1053.0036,1726.065)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-5-6"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5)"
@@ -1768,7 +1768,7 @@
          id="tspan4582-8-5-6-1-3-2"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.82718372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-5)"
@@ -1794,7 +1794,7 @@
          id="tspan4582-8-5-6-1-3-0-6"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6-2)"
@@ -1807,7 +1807,7 @@
          id="tspan4582-8-5-6-1-3-5-6-9"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Booh !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-6-3-3)"
@@ -1820,6 +1820,6 @@
          id="tspan4582-8-5-6-1-3-0-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hooh !</tspan></text>
   </g>
 </svg>

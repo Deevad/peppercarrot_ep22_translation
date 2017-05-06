@@ -516,15 +516,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900003"
-     inkscape:cx="1043.2819"
-     inkscape:cy="2976.4351"
-     inkscape:window-x="56"
-     inkscape:window-y="31"
+     inkscape:cx="1408.9193"
+     inkscape:cy="1257.1644"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -533,13 +533,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/vincent/Documents/perso/dev/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -590,7 +590,7 @@
          sodipodi:role="line"
          id="tspan3473"
          x="762.91553"
-         y="249.50383">êtes-vous prête pour</tspan><tspan
+         y="249.50383">êtes-vous prêtes pour</tspan><tspan
          sodipodi:role="line"
          id="tspan3475"
          x="762.91553"
@@ -598,21 +598,23 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-1-4-3"
-       width="349.60437"
+       width="377.95975"
        height="134.93451"
-       x="1460.1978"
+       x="1445.0748"
        y="833.03284"
        ry="59.471668"
-       rx="46.839882" />
+       rx="50.638927" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1635.9155"
        y="914.50378"
        id="text4246-2-3-1-3-9-9-9-9-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3477">C'est à vous ! </tspan></text>
+         id="tspan3477"
+         x="1635.9155"
+         y="914.50378">À vous de jouer !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0078752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1)"
@@ -625,7 +627,7 @@
          id="tspan4582-8-5-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0078752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Poum!</tspan></text>
+         style="font-size:70px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0078752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Poum !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.33470154px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203-2);fill-opacity:1;stroke:#ffffff;stroke-width:3.3832047;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-7)"
@@ -707,7 +709,7 @@
          style="font-size:45px"
          x="1583.9023"
          y="2885.6548"
-         id="tspan4495">sur ce systême...</tspan></text>
+         id="tspan4495">sur ce système...</tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 3002.6554,1569.5363 0,189.035 -203.83,0 0,-90.9804 -10,0 0,15.6308 -30.9825,-26.9824 30.9825,-26.9804 0,16.6171 10,0 0,-76.3397 203.83,0 z"

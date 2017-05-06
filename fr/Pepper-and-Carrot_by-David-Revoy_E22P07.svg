@@ -1165,15 +1165,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1216.4188"
-     inkscape:cy="2636.1969"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:cx="1178.3753"
+     inkscape:cy="940.21511"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -1182,13 +1182,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1214,14 +1214,14 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89109421px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1"
-         x="495.27045"
+         x="501.88184"
          y="226.40021"
-         id="tspan4341-5-7">RELEASUS</tspan><tspan
+         id="tspan4161">SOLVITE </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89109421px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1"
          x="495.27045"
-         y="292.5141"
-         id="tspan4161">KRAKENIS!</tspan></text>
+         y="292.51407"
+         id="tspan4397">KRAKENIS !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
@@ -1240,7 +1240,7 @@
    style="font-size:113.42408752px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
    id="tspan4239">S</tspan>plaa<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4294);fill-opacity:1"
-   id="tspan4241">shh</tspan>!</tspan></tspan></text>
+   id="tspan4241">shh </tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.65589893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-5-7);"
@@ -1300,17 +1300,17 @@
          style="font-size:45px"
          x="2060.9438"
          y="199.65723"
-         id="tspan4887">Jolie! Puissant! Spiruline</tspan><tspan
+         id="tspan4887">Joli ! Puissant ! Spiruline</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2060.9438"
          y="255.90723"
-         id="tspan4327">mène à présent le score!</tspan><tspan
+         id="tspan4327">mène à présent au score !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2060.9438"
-         y="312.1572"
-         id="tspan4329">Coriandre, c'est à vous!</tspan></text>
+         y="312.15723"
+         id="tspan4329">Coriandre, c'est à vous !</tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 2951.2513,951.50507 0,189.03513 -203.83,0 0,-90.9805 -10,0 0,15.6308 -30.9825,-26.9824 30.9825,-26.9804 0,16.6171 10,0 0,-76.33973 203.83,0 z"
@@ -1475,7 +1475,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89109421px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1"
          x="603.33606"
          y="1848.9608"
-         id="tspan4161-9">REDITUS!</tspan></text>
+         id="tspan4161-9">REDITUS !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4855);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-6)"
@@ -1492,7 +1492,7 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4855);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2-4">Groo<tspan
    style="font-size:69.91014862px;fill:url(#linearGradient4855)"
-   id="tspan4869">wooo</tspan>!</tspan></tspan></text>
+   id="tspan4869">wooo </tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-1)"
@@ -1577,17 +1577,17 @@
          style="font-size:45px"
          x="2004.2198"
          y="2210.3201"
-         id="tspan4329-9">Il semblerait que les </tspan><tspan
+         id="tspan4329-9">Ah, il semblerait que les </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2004.2198"
          y="2266.5701"
-         id="tspan5326">squelettes soient démodés ! </tspan><tspan
+         id="tspan5326">squelettes soient démodés... </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1996.3097"
          y="2322.8201"
-         id="tspan5330">A notre chère Saffran !</tspan></text>
+         id="tspan5330">À notre chère Safran !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4652);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-7)"
@@ -1606,6 +1606,6 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4652);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2-2">Www<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4652);fill-opacity:1"
-   id="tspan4241-3">loo</tspan>!</tspan></tspan></text>
+   id="tspan4241-3">loo </tspan>!</tspan></tspan></text>
   </g>
 </svg>
