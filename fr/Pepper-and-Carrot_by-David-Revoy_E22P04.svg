@@ -310,15 +310,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1359.1826"
-     inkscape:cy="836.98225"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="1512.5219"
+     inkscape:cy="1039.6581"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -327,13 +327,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -387,7 +387,7 @@
        sodipodi:nodetypes="csssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 394.63445,3170.1598 c 33.79361,-36.3263 373.59285,-43.3719 427.47033,-2.316 64.94443,49.4891 14.19013,165.7966 -46.66698,186.3521 -66.22533,22.3687 -265.00391,17.7298 -324.05855,-2.6085 -49.89418,-17.1835 -76.90698,-44.2483 -86.007,-107.1688 -4.38683,-30.332 -4.53158,-37.9323 29.2622,-74.2588 z"
+       d="m 378.48857,3171.2996 c 34.98556,-37.6936 386.76999,-45.0044 442.5478,-2.4032 67.23511,51.3519 14.69064,172.0373 -48.31299,193.3665 -68.56119,23.2106 -274.35096,18.3971 -335.48854,-2.7067 -51.65402,-17.8303 -79.6196,-45.9138 -89.04059,-111.2027 -4.54156,-31.4737 -4.69141,-39.36 30.29432,-77.0539 z"
        id="path4040-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -494,7 +494,7 @@
        height="100%" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1283.0567,242.75888 c 7.8433,-72.80611 86.4937,-115.18289 239.2213,-102.93281 89.1179,7.14804 203.8406,7.49438 189.0948,121.18761 -13.7915,106.33516 -165.5648,103.5073 -195.6309,104.76257 -30.0661,1.2554 -160.4197,-15.01032 -194.617,-45.5837 -26.2729,-23.4887 -39.3754,-54.83857 -38.0682,-77.43367 z"
+       d="m 1283.0567,253.34859 c 7.8433,-80.14693 86.4937,-126.79643 239.2213,-113.31121 89.1179,7.86875 203.8406,8.25001 189.0948,133.40659 -13.7915,117.05661 -165.5648,113.94363 -195.6309,115.32546 -30.0661,1.38198 -160.4197,-16.52376 -194.617,-50.17976 -26.2729,-25.857 -39.3754,-60.36778 -38.0682,-85.24108 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -509,17 +509,17 @@
          style="font-size:45px"
          x="1510.5229"
          y="217.53923"
-         id="tspan5800">Chouettes règles </tspan><tspan
+         id="tspan4211">Sympa, comme </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1510.5229"
+         x="1502.6128"
          y="273.78925"
-         id="tspan4209">n'est-ce pas </tspan><tspan
+         id="tspan4276">concept ! N'est-ce</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1502.6128"
          y="330.03925"
-         id="tspan4211">Carrot ?</tspan></text>
+         id="tspan4278">pas, Carrot ?</tspan></text>
     <path
        style="display:inline;fill:#ffffff;stroke:none"
        d="m 1286.3283,127.59716 c 30.5751,-1.68186 39.5779,6.57951 46.3973,20.08518 6.8931,13.65148 5.3556,24.21847 5.3556,24.21847 l 32.0127,-11.80818 -17.8808,-20.95867 c 0,0 -24.3582,-27.93888 -65.8848,-11.5368 z"
@@ -537,7 +537,7 @@
          style="font-size:45px"
          x="352.05801"
          y="1212.715"
-         id="tspan4211-5">Technologique...</tspan></text>
+         id="tspan4211-5">Innovant...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -549,7 +549,7 @@
          style="font-size:45px"
          x="385.25507"
          y="1303.389"
-         id="tspan4211-5-5">Ludique...</tspan></text>
+         id="tspan4211-5-5">Amusant...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -571,14 +571,14 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1894.743"
+         x="1902.6532"
          y="1300.967"
-         id="tspan4211-5-5-2-1">...le système vraiment</tspan><tspan
+         id="tspan4302">...le système parfait, </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1894.743"
          y="1357.217"
-         id="tspan4302">brilliant, quoi!...</tspan></text>
+         id="tspan4282">quoi !</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1694.3534,1346.9265 c -0.293,39.1252 -57.7197,62.9987 -101.2055,49.758 55.5704,38.0317 158.8616,-8.6506 137.2323,-37.5739 -12.4923,-16.7051 -36.0268,-12.1841 -36.0268,-12.1841 z"
@@ -601,34 +601,34 @@
          style="font-size:45px"
          x="349.67532"
          y="1957.2114"
-         id="tspan4392">d'expert pour trier</tspan><tspan
+         id="tspan4392">d'experts pour juger</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="349.67532"
          y="2013.4614"
-         id="tspan4394">la qualité!</tspan></text>
+         id="tspan4394">la qualité !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="612.46289"
-       y="3213.7009"
+       x="602.46289"
+       y="3207.7009"
        id="text4246-2-3-1-3-9-0-5-3-3-6-9-3-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="612.46289"
-         y="3213.7009"
-         id="tspan4394-1">Ça c'est le progrès!</tspan><tspan
+         x="610.37305"
+         y="3207.7009"
+         id="tspan4394-1">Quel progrès ! </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="612.46289"
-         y="3269.9509"
-         id="tspan4433">On vit une époque</tspan><tspan
+         x="610.37305"
+         y="3263.9509"
+         id="tspan4433">On vit vraiment une </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="612.46289"
-         y="3326.2009"
-         id="tspan4435">fantastique!</tspan></text>
+         x="602.46289"
+         y="3320.2009"
+         id="tspan4435">époque fantastique !</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 641.98943,3159.777 c 21.02103,-42.255 24.56937,-134.801 -19.9338,-149.816 45.27002,27.8302 -4.02345,139.5852 -14.2218,150.7129 -10.106,11.027 34.1556,-0.8969 34.1556,-0.8969 z"
@@ -651,7 +651,7 @@
          style="font-size:45px"
          x="1242.7061"
          y="2000.2411"
-         id="tspan4509">son boitier ?!</tspan></text>
+         id="tspan4509">son boitier ?</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-2"
@@ -663,16 +663,16 @@
        rx="46.839886" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6191988px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6191988px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="2141.6626"
        y="3008.0222"
        id="text4246-2-3-1-3-9-0-5-3-3-6-9-3-7-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:51.07199478px;stroke:#000000;stroke-opacity:1;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;letter-spacing:2px"
-         x="2141.6626"
+         style="font-size:51.07199478px;letter-spacing:2px;stroke:#000000;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="2142.6626"
          y="3008.0222"
-         id="tspan4509-5">Bien!</tspan></text>
+         id="tspan4509-5">Bien !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -697,7 +697,7 @@
          id="tspan4582-8-5-6-1-8"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke-width:1.3062278">Oui!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke-width:1.3062278">Oui !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.51447606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-8-4)"
@@ -710,7 +710,7 @@
          id="tspan4582-8-5-6-1-8-0"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke-width:1.51447606">Super!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke-width:1.51447606">Super !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.58756113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-8-6)"
@@ -723,7 +723,7 @@
          id="tspan4582-8-5-6-1-8-5"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke-width:1.58756113">Oui!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke-width:1.58756113">Oui !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00322533px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none"
@@ -736,7 +736,7 @@
          style="font-size:56.26209641px;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="3324.5437"
          y="2866.6912"
-         id="tspan4579-4">COMMENCE!!</tspan></text>
+         id="tspan4579-4">COMMENCE !!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.8942405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4-6)"
@@ -762,7 +762,7 @@
          id="tspan4582-8-5-6-1-8-2"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke-width:1.13860536">Oui!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke-width:1.13860536">Oui !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56492543;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-8-9)"
@@ -770,11 +770,11 @@
        y="1584.5073"
        id="text4580-1-7-3-6-7-0"
        sodipodi:linespacing="125%"
-       transform="matrix(0.69288181,-0.35218833,-0.1279162,0.84019963,1919.616,1524.9096)"><tspan
+       transform="matrix(0.69288181,-0.35218833,-0.1279162,0.84019963,1903.616,1524.9096)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-8-6"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke-width:1.56492543">Oui!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke-width:1.56492543">Oui !</tspan></text>
   </g>
 </svg>
