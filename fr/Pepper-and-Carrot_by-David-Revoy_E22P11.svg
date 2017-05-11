@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="5000"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P11.svg">
@@ -89,7 +89,8 @@
     <sodipodi:guide
        position="1425.8203,4914.3274"
        orientation="0,1"
-       id="guide4214" />
+       id="guide4214"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -99,15 +100,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       width="2481"
        height="5000"
-       width="2481" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -123,97 +124,90 @@
      transform="translate(0,1024)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#241c1c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1240.0964"
        y="-864.0658"
-       id="text4246-42"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-42"><tspan
          sodipodi:role="line"
-         style="font-size:36.73472214px;fill:#241c1c;stroke:none"
+         style="font-size:36.73472214px;line-height:1.25;fill:#241c1c;stroke:none"
          x="1240.0964"
          y="-864.0658"
-         id="tspan4252-9">05/2017 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
+         id="tspan4252-9">05/2017 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4151"
        y="-816.18878"
        x="1240.8662"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          id="tspan4153"
          y="-816.18878"
          x="1240.8662"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-         sodipodi:role="line">Amélioration des dialogues : Nicolas Artance, Valvin</tspan></text>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         sodipodi:role="line">Amélioration des dialogues : Nicolas Artance, Valvin</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
        x="1242.4336"
        y="-675.88531"
-       id="text4246-42-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-42-4"><tspan
          sodipodi:role="line"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
          x="1242.4336"
          y="-675.88531"
          id="tspan4252-9-9">Basé sur l'univers d'Hereva créé par David Revoy avec les contributions de Craig Maloney. Corrections de Willem Sonke, Moini, Hali, CGand et Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1241.0786"
        y="-634.98932"
-       id="text4229"
-       sodipodi:linespacing="125%"><tspan
+       id="text4229"><tspan
          sodipodi:role="line"
          x="1241.0786"
          y="-634.98932"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#241c1c;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#241c1c;stroke:none"
          id="tspan4169">Logiciels : Krita 3.1.3, Inkscape 0.91 sur Linux Mint 18.1</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4179"
        y="-590.45563"
        x="1241.3423"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4181"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';fill:#241c1c;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';fill:#241c1c;stroke:none"
          y="-590.45563"
          x="1241.3423"
          sodipodi:role="line">Licence : Creative Commons Attribution 4.0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
        x="1243.3711"
        y="-375.95465"
-       id="text4162"
-       sodipodi:linespacing="125%"><tspan
+       id="text4162"><tspan
          sodipodi:role="line"
          id="tspan4164"
          x="1243.3711"
          y="-375.95465"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">Pepper&amp;Carrot est entièrement gratuit, open-source,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">Pepper&amp;Carrot est entièrement gratuit, open-source,</tspan><tspan
          sodipodi:role="line"
          x="1243.3711"
          y="-325.95465"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
          id="tspan4168">et sponsorisé grâce au mécénat de ses lecteurs.</tspan><tspan
          sodipodi:role="line"
          x="1243.3711"
          y="-275.95465"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan4166">Pour cet épisode, merci aux XXX Mécènes :</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan4166">Pour cet épisode, merci aux XXX Mécènes :</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
        x="1240.1191"
        y="3842.3586"
-       id="text4221"
-       sodipodi:linespacing="125%"><tspan
+       id="text4221"><tspan
          sodipodi:role="line"
          id="tspan4223"
          x="1240.1191"
          y="3842.3586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">Vous aussi, devenez mécène de Pepper&amp;Carrot sur www.patreon.com/davidrevoy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">Vous aussi, devenez mécène de Pepper&amp;Carrot sur www.patreon.com/davidrevoy</tspan></text>
   </g>
 </svg>

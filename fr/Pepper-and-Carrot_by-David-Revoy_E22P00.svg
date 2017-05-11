@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="663"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P00.svg">
@@ -43,9 +43,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46082619"
-     inkscape:cx="897.32503"
-     inkscape:cy="-44.313071"
+     inkscape:zoom="0.33177989"
+     inkscape:cx="1316.0682"
+     inkscape:cy="-99.345475"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
+       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
        width="2481"
        height="663"
@@ -76,15 +76,14 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="712.96338"
        y="582.47577"
-       id="text4178"
-       sodipodi:linespacing="125%"><tspan
+       id="text4178"><tspan
          sodipodi:role="line"
          id="tspan4180"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#2b1100;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.5px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#2b1100;stroke:none"
          x="712.96338"
-         y="582.47577">Episode 22 : Le système de vote</tspan></text>
+         y="582.47577">Épisode 22 : Le système de vote</tspan></text>
   </g>
 </svg>

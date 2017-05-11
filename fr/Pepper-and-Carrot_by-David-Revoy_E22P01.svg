@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P01.svg">
@@ -147,9 +147,9 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="698.18883"
-     inkscape:cy="2747.3015"
+     inkscape:zoom="0.500847"
+     inkscape:cx="1173.013"
+     inkscape:cy="2911.3873"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -160,7 +160,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
+       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
        width="2481"
        height="3503"
@@ -193,25 +193,26 @@
        sodipodi:nodetypes="cccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="431.3956"
        y="1954.3196"
-       id="text4246-2-3-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-2-3-1"><tspan
          sodipodi:role="line"
          id="tspan3346"
          x="431.3956"
-         y="1954.3196">Nous y sommes !</tspan><tspan
+         y="1954.3196"
+         style="font-size:45px;line-height:1.25">Nous y sommes !</tspan><tspan
          sodipodi:role="line"
          id="tspan3348"
          x="439.30576"
-         y="2010.5696">Le grand concours de magie </tspan><tspan
+         y="2010.5696"
+         style="font-size:45px;line-height:1.25">Le grand concours de magie </tspan><tspan
          sodipodi:role="line"
          id="tspan3350"
          x="431.3956"
-         y="2066.8196">peut enfin commencer !</tspan></text>
+         y="2066.8196"
+         style="font-size:45px;line-height:1.25">peut enfin commencer !</tspan></text>
     <text
-       sodipodi:linespacing="0%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213)"
        x="-447.29675"
@@ -246,7 +247,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3392"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.42146683px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(2.2321461,0,0,1.976988,-364.24736,-219.72983)"><flowRegion
          id="flowRegion3394"><rect
            id="rect3396"
@@ -255,5 +256,6 @@
            x="252.99998"
            y="196.75012"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.42146683px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara3400">Dans l'arène ultra-sécurisée de Komona...</flowPara></flowRoot>  </g>
+         id="flowPara3400"
+         style="font-size:21.42146683px;line-height:1.25">Dans l'arène ultra-sécurisée de Komona…</flowPara></flowRoot>  </g>
 </svg>
