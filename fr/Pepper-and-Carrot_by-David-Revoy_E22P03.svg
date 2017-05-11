@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P03.svg">
@@ -514,8 +514,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34334173"
-     inkscape:cx="742.49849"
-     inkscape:cy="1362.7756"
+     inkscape:cx="640.55923"
+     inkscape:cy="3185.0528"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -526,8 +526,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
        y="0"
        x="0"
        id="image10"
@@ -826,17 +826,20 @@
        x="1276.0023"
        y="286.89603"
        id="text4246-3-8"
-       transform="matrix(1.6804587,0,0,1.6667549,-886.09173,-388.24047)"><tspan
+       transform="matrix(1.6804587,0,0,1.6667549,-886.09173,-388.24047)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:17.77999878px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1304.9219"
          y="286.89603"
          id="tspan4252-5-6"> </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:12.02410793px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:7.17020304px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1282.0144"
-         y="403.96521"
-         id="tspan5535-8">1337</tspan></text>
+         y="409.00812"
+         id="tspan5535-8"><tspan
+   style="letter-spacing:0px"
+   id="tspan4272">1 </tspan>337</tspan></text>
     <use
        x="0"
        y="0"

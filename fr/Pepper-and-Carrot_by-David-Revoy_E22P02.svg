@@ -98,9 +98,9 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27420888"
-     inkscape:cx="1767.9188"
-     inkscape:cy="1859.6135"
+     inkscape:zoom="0.54841776"
+     inkscape:cx="1775.0118"
+     inkscape:cy="1447.5003"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -126,7 +126,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1564.8392,2314.3627 c -16.2878,-47.6331 -28.9561,-50.5494 -38.005,-54.4378 -1.2063,4.8605 -4.2226,12.6373 -4.2226,12.6373 0,0 -17.4944,-10.6931 -24.7335,-10.6931 -7.2389,0 -7.2389,16.5258 -7.2389,16.5258 0,0 33.7821,22.3583 40.4179,31.1072 3.0162,-13.6094 5.4292,-19.442 5.4292,-25.2746 5.4295,-0.9721 22.3205,13.6094 28.3529,30.1352 z"
+       d="m 1574.8392,2314.3627 c -16.2878,-47.6331 -28.9561,-50.5494 -38.005,-54.4378 -1.2063,4.8605 -4.2226,12.6373 -4.2226,12.6373 0,0 -17.4944,-10.6931 -24.7335,-10.6931 -7.2389,0 -7.2389,16.5258 -7.2389,16.5258 0,0 33.7821,22.3583 40.4179,31.1072 3.0162,-13.6094 5.4292,-19.442 5.4292,-25.2746 5.4295,-0.9721 22.3205,13.6094 28.3529,30.1352 z"
        id="path4456-6"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="19.942486"
@@ -140,12 +140,12 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-7"
-       width="567.66467"
+       width="605.9566"
        height="265.11411"
-       x="942.88605"
+       x="917.35803"
        y="2044.0802"
        ry="47.867134"
-       rx="50.542713" />
+       rx="53.952087" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 626.4218,2012.6445 c 3.12557,-2.6233 -23.71261,-44.585 -23.71261,-44.585 0,0 11.46462,-23.8497 11.69746,-28.3604 -5.4365,-10.5411 -27.37494,-28.718 -27.37494,-28.718 l 28.40781,-45.5552 -8.57849,41.3979 34.57145,28.1661 -10.51301,31.1429 29.47598,28.8723 z"
@@ -155,12 +155,12 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="744.22424"
-       height="251.69257"
-       x="1263.0487"
-       y="427.28455"
-       ry="73.90313"
-       rx="82.069656" />
+       width="780.69275"
+       height="175.10861"
+       x="1241.1676"
+       y="507.51535"
+       ry="51.416195"
+       rx="86.09124" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1276.8634,818.55728 c -2.3726,-48.11045 10.1998,-102.00947 18.1937,-112.95934 3.1988,0.86242 18.9006,18.62975 18.9006,18.62975 0,0 17.0727,-55.93508 32.1727,-65.86801 8.8977,-5.85299 32.5596,-5.29487 32.5596,-5.29487 -2.9446,-4.66442 -59.8667,80.67964 -59.7031,99.13649 -8.8102,-3.73425 -16.9173,-15.12982 -19.3721,-17.88533 -10.1199,5.38582 -24.1474,69.23793 -22.7514,84.24131 z"
@@ -215,29 +215,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1226.4257"
+       x="1220.4257"
        y="2104.7434"
-       id="text4246-2-3-1-3-9-9-6-5"><tspan
+       id="text4246-2-3-1-3-9-9-6-5"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan3394"
-         x="1234.3358"
+         x="1228.3358"
          y="2104.7434"
-         style="font-size:45px;line-height:1.25">Vous pourrez attribuer </tspan><tspan
+         style="font-size:45px;line-height:1.25"
+         id="tspan4281">Le bouton vert donne un </tspan><tspan
          sodipodi:role="line"
-         id="tspan3396"
-         x="1234.3358"
+         x="1228.3358"
          y="2160.9934"
-         style="font-size:45px;line-height:1.25">un point aux prestations </tspan><tspan
+         style="font-size:45px;line-height:1.25"
+         id="tspan4300">point à une candidate ! </tspan><tspan
          sodipodi:role="line"
-         id="tspan3398"
-         x="1234.3358"
+         x="1220.4257"
          y="2217.2434"
-         style="font-size:45px;line-height:1.25">qui vous auront séduits </tspan><tspan
+         style="font-size:45px;line-height:1.25"
+         id="tspan4283">Le bouton rouge n'en donne</tspan><tspan
          sodipodi:role="line"
-         id="tspan3400"
-         x="1226.4257"
+         x="1220.4257"
          y="2273.4934"
-         style="font-size:45px;line-height:1.25">depuis les gradins !</tspan></text>
+         style="font-size:45px;line-height:1.25"
+         id="tspan4302">aucun ! À vous de choisir !</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0"
@@ -352,70 +353,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1639.7261"
-       y="484.8989"
-       id="text4246-2-3-1-3-9-9-6-2"><tspan
+       x="1633.7261"
+       y="580.89893"
+       id="text4246-2-3-1-3-9-9-6-2"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1647.6362"
-         y="484.8989"
-         id="tspan3437">Et ce vœu a été exaucé par nos </tspan><tspan
+         x="1641.6362"
+         y="580.89893"
+         id="tspan3443">Et grâce à nos brillants ingénieurs, </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1647.6362"
-         y="541.14893"
-         id="tspan3435">brillants ingénieurs, afin de vous </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1647.6362"
-         y="597.39893"
-         id="tspan3441">permettre d'élire les finalistes </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1639.7261"
-         y="653.64893"
-         id="tspan3443">d'une simple pression du doigt !</tspan></text>
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4632-8-6-1-3-6-7-6"
-       width="672.39056"
-       height="251.69257"
-       x="283.84253"
-       y="208.91187"
-       ry="73.90313"
-       rx="74.148163" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 990.14279,532.90835 c 3.1174,-48.11045 -13.40145,-102.00948 -23.90463,-112.95935 -4.2029,0.86242 -24.8335,18.62975 -24.8335,18.62975 0,0 -22.43183,-55.93508 -42.27173,-65.86801 -11.6907,-5.85299 -42.78009,-5.29487 -42.78009,-5.29487 3.86891,-4.66442 78.65892,80.67964 78.44392,99.13649 11.5758,-3.73425 22.2277,-15.12982 25.4531,-17.88533 13.2965,5.38582 31.72713,69.23794 29.89293,84.24132 z"
-       id="path4456-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccscccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="618.68884"
-       y="262.51532"
-       id="text4246-2-3-1-3-9-9"><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="626.599"
-         y="262.51532"
-         id="tspan4161">Vous le savez, ici, à Komona, </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="626.599"
-         y="318.76532"
-         id="tspan3383">notre vœu plus le cher est que </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="626.599"
-         y="375.01532"
-         id="tspan3389">chacun puisse donner son avis </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="618.68884"
-         y="431.26532"
-         id="tspan3385">en toute circonstance.</tspan></text>
+         x="1633.7261"
+         y="637.14893"
+         id="tspan4209">vous pourrez participer vous aussi !</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4545"
