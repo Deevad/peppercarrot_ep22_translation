@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P08.svg">
@@ -916,15 +916,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1862"
+     inkscape:window-height="1022"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1431.0189"
+     inkscape:cx="924.49718"
      inkscape:cy="2762.0363"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="56"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -933,13 +933,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
+       sodipodi:absref="/home/vincent/Documents/perso/dev/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1218,30 +1218,19 @@
        inkscape:transform-center-y="-2.166888" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:45px;writing-mode:lr;"
        x="482.09351"
        y="190.13478"
-       id="text4246-2-3-1-3-9-9-36"><tspan
+       id="text4246-2-3-1-3-9-9-36"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="482.09351"
-         y="190.13478"
-         id="tspan4161-53">Grrr ! Pas question de faire</tspan><tspan
+         id="tspan4359">Grrr ! Pas question de</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="482.09351"
-         y="246.38478"
-         id="tspan3556">moins bien que cette</tspan><tspan
+         id="tspan4361">faire moins bien que cette</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="482.09351"
-         y="302.63477"
-         id="tspan3558">Spiruline ! C'est le moment</tspan><tspan
+         id="tspan4363">Spiruline ! C'est le moment</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="482.09351"
-         y="358.88477"
-         id="tspan3560">de donner le maximum !</tspan></text>
+         id="tspan4365">de donner le maximum !</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 688.33127,419.28907 c -1.2969,-8.327 6.9164,-12.4905 6.9164,-12.4905 0,0 -8.2133,-6.4345 1.2968,-12.8691 9.51,-6.4345 18.1554,1.5141 18.1554,1.5141 0,0 12.1037,-12.4906 23.3427,1.8925 11.2392,14.383 0,22.3315 0,22.3315 0,0 6.4842,15.1401 -10.8068,18.5466 -17.2909,3.4065 -22.0459,1.1355 -26.3687,-7.9485 -12.1036,-3.0281 -12.5358,-10.9766 -12.5358,-10.9766 z"
