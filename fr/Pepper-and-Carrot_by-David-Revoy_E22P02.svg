@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P02.svg">
@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.27420888"
-     inkscape:cx="1831.7388"
-     inkscape:cy="1421.9909"
+     inkscape:cx="1767.9188"
+     inkscape:cy="1859.6135"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -112,13 +112,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/calimero/peppercarrot/peppercarrot_ep22_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -241,42 +241,43 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0"
-       width="470.0596"
+       width="499.23444"
        height="309.44302"
-       x="1898.7443"
+       x="1872.7443"
        y="1353.9023"
        ry="93.883049"
-       rx="59.792606" />
+       rx="63.503708" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="2138.7354"
-       y="1411.5251"
-       id="text4246-2-3-1-3-9-9-6-9"><tspan
+       x="2128.7354"
+       y="1415.5251"
+       id="text4246-2-3-1-3-9-9-6-9"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.6455"
-         y="1411.5251"
+         x="2136.6455"
+         y="1415.5251"
          id="tspan4377">« Et le jury, alors ? », </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.6455"
-         y="1467.7751"
+         x="2136.6455"
+         y="1471.7751"
          id="tspan3553">me demanderez-vous. </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.6455"
-         y="1524.0251"
+         x="2136.6455"
+         y="1528.0251"
          id="tspan3555">Pas de panique, </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.6455"
-         y="1580.2751"
+         x="2136.6455"
+         y="1584.2751"
          id="tspan3557">nous avons pensé </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2138.7354"
-         y="1636.5251"
+         x="2128.7354"
+         y="1640.5251"
          id="tspan3559">à tout !</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -425,7 +426,7 @@
            height="226.10501"
            x="641.84644"
            y="2904.9158" /></flowRegion><flowPara
-         id="flowPara4551"></flowPara></flowRoot>  </g>
+         id="flowPara4551" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
