@@ -611,8 +611,8 @@
        height="144.93451"
        x="264.01028"
        y="2398.0327"
-       ry="59.471668"
-       rx="46.839882" />
+       ry="40"
+       rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1749.456,2606.1756 c 35.3701,-43.5324 89.1143,-37.7386 116.7982,-59.7226 23.4187,-18.597 26.2326,-38.3718 23.4789,-74.4841 -3.106,-40.7337 -21.47,-19.9705 -21.47,-19.9705 l -9.0692,30.8354 c 0,0 4.469,19.3075 -2.2247,39.9807 -6.6938,20.6732 -88.6118,38.0057 -107.5132,83.3611 z"
@@ -1119,8 +1119,8 @@
        height="144.93451"
        x="146.51031"
        y="2241.7827"
-       ry="59.471668"
-       rx="46.839882" />
+       ry="40"
+       rx="40" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1144,8 +1144,8 @@
        height="222.43451"
        x="1654.1353"
        y="2259.2827"
-       ry="59.471668"
-       rx="46.839882" />
+       ry="40"
+       rx="40" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
