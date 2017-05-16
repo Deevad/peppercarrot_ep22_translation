@@ -513,9 +513,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45406944"
-     inkscape:cx="751.62862"
-     inkscape:cy="2702.916"
+     inkscape:zoom="0.25961568"
+     inkscape:cx="773.17574"
+     inkscape:cy="2481.815"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -528,11 +528,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -555,45 +555,46 @@
        sodipodi:nodetypes="cccscccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1943.7703,484.62363 c -27.8283,-33.96643 -32.0923,-64.71125 -30.1011,-76.04443 3.5778,-0.7235 20.7854,3.45902 20.7854,3.45902 0,0 -17.5322,-59.49698 -8.0697,-73.09078 5.5758,-8.01017 28.9541,-17.59308 28.9541,-17.59308 -5.3461,-2.14721 -11.091,95.54695 -1.1435,108.89283 -10.5747,1.00496 -24.5265,-3.85534 -28.3824,-4.82187 -7.0159,8.18655 8.6388,48.88275 17.9572,59.19831 z"
+       d="m 1937.5521,488.9344 c -27.8283,-33.96643 -32.0923,-64.71125 -30.1011,-76.04443 3.5778,-0.7235 20.7854,3.45902 20.7854,3.45902 0,0 -17.5322,-59.49698 -8.0697,-73.09078 5.5758,-8.01017 28.9541,-17.59308 28.9541,-17.59308 -5.3461,-2.14721 -11.091,95.54695 -1.1435,108.89283 -10.5747,1.00496 -24.5265,-3.85534 -28.3824,-4.82187 -7.0159,8.18655 8.6388,48.88275 17.9572,59.19831 z"
        id="path4456"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccc" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6"
-       width="742.20776"
-       height="248.02415"
-       x="1585.3634"
-       y="132.45546"
+       width="557.87946"
+       height="257.5994"
+       x="1662.6915"
+       y="129.10603"
        ry="40"
        rx="40" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1957.9626"
-       y="183.77194"
-       id="text4246-2-3-1-3-9"><tspan
+       x="1944.0842"
+       y="184.25261"
+       id="text4246-2-3-1-3-9"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1965.8728"
-         y="183.77194"
-         id="tspan3492">Et cerise sur le gâteau, les scores </tspan><tspan
+         x="1944.0842"
+         y="184.25261"
+         id="tspan3492">Et cerise sur le gâteau,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1965.8728"
-         y="240.02194"
-         id="tspan4620">apparaîtront directement </tspan><tspan
+         x="1944.0842"
+         y="240.50261"
+         id="tspan4620">les scores apparaîtront</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1965.8728"
-         y="296.27194"
-         id="tspan3487">au-dessus des participantes ! </tspan><tspan
+         x="1944.0842"
+         y="296.75262"
+         id="tspan3502">directement au-dessus</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1957.9626"
-         y="352.52194"
-         id="tspan3502">Ingénieux, n'est-ce pas ?!</tspan></text>
+         x="1944.0842"
+         y="353.00262"
+         id="tspan4282">des participantes !</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-1"
