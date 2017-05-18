@@ -98,13 +98,13 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.23709613"
-     inkscape:cx="497.21239"
-     inkscape:cy="1750.4919"
+     inkscape:zoom="0.36059358"
+     inkscape:cx="1179.1312"
+     inkscape:cy="1794.3605"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:snap-text-baseline="true" />
   <g
      inkscape:groupmode="layer"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -183,15 +183,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3"
-       width="463.57535"
-       height="365.91266"
-       x="369.3638"
-       y="1950.8141"
+       width="441.38968"
+       height="374.23227"
+       x="388.77628"
+       y="1942.4945"
        ry="40"
        rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 589.95325,2012.6445 c 3.12557,-2.6233 -23.71261,-44.585 -23.71261,-44.585 0,0 11.46462,-23.8497 11.69746,-28.3604 -5.4365,-10.5411 -27.37494,-28.718 -27.37494,-28.718 l 28.40781,-45.5552 -8.57849,41.3979 34.57145,28.1661 -10.51301,31.1429 29.47598,28.8723 z"
+       d="m 613.19842,2000.0869 c 2.64799,-3.1047 -30.76851,-40.0426 -30.76851,-40.0426 0,0 7.3568,-25.419 6.83945,-29.9059 -7.10705,-9.4953 -31.75268,-23.7882 -31.75268,-23.7882 l 20.47161,-49.6306 -1.60453,42.2469 38.75844,22.0522 -5.21058,32.4539 33.85028,23.5924 z"
        id="path4448"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
@@ -259,38 +259,38 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="602.74316"
+       x="608.28955"
        y="2007.1349"
        id="text4246-2-3-1-3-9-9-6"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="610.65332"
+         x="608.28955"
          y="2007.1349"
-         id="tspan4217">En effet, admirez </tspan><tspan
+         id="tspan3514">En effet mes chers</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="610.65332"
+         x="608.28955"
          y="2063.3848"
-         id="tspan3514">mes chers amis </tspan><tspan
+         id="tspan3512">amis, admirez ces</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="610.65332"
+         x="616.19971"
          y="2119.6348"
-         id="tspan3512">ces petites merveilles </tspan><tspan
+         id="tspan4198"> petites merveilles </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="602.74316"
+         x="608.28955"
          y="2175.8848"
          id="tspan3516">technologiques que</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="610.65332"
+         x="616.19971"
          y="2232.1348"
          id="tspan3518">nos hôtesses vont </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="610.65332"
+         x="616.19971"
          y="2288.3848"
          id="tspan4197">vous distribuer ! </tspan></text>
     <text
