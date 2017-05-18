@@ -98,9 +98,9 @@
      inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.36059358"
-     inkscape:cx="1179.1312"
-     inkscape:cy="1794.3605"
+     inkscape:zoom="0.41468262"
+     inkscape:cx="1303.8577"
+     inkscape:cy="982.40162"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -206,10 +206,10 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0-1"
        width="462.38416"
-       height="311.2926"
+       height="369.16818"
        x="133.30595"
        y="2428.8579"
-       ry="40"
+       ry="39.999996"
        rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -387,12 +387,17 @@
          style="font-size:45px;line-height:1.25"
          x="371.5217"
          y="2655.1321"
-         id="tspan3587">donner cent points </tspan><tspan
+         id="tspan3587">donner ou retirer </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.5217"
+         y="2711.3821"
+         id="tspan3593">cent points d'un </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="363.61154"
-         y="2711.3821"
-         id="tspan3593">d'un seul coup !</tspan></text>
+         y="2767.6321"
+         id="tspan4196">seul coup !</tspan></text>
     <text
        id="text4250"
        y="2751.4998"
