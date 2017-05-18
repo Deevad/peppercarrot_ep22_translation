@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* French: David Revoy
+* French: Deevad, Nartance, Valvin, Calimeroteknik.
 
 
 ## Artwork:
