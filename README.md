@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 22:
+# Episode 22: The Votign System
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* English: Alex Gryson
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 
 
