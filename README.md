@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 22: The Votign System
+# Episode 22: The Voting System
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
