@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="5000"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P11.svg">
@@ -72,14 +72,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43937994"
-     inkscape:cx="1264.1236"
-     inkscape:cy="377.18436"
-     inkscape:window-x="0"
+     inkscape:cx="1457.578"
+     inkscape:cy="4189.3748"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
@@ -100,15 +100,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/code/peppercarrot_ep22_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481"
        height="5000"
-       width="2481" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -124,7 +124,7 @@
      transform="translate(0,1024)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1240.0964"
        y="-864.0658"
        id="text4246-42"
@@ -133,19 +133,19 @@
          style="font-size:36.73472214px;line-height:1.25;fill:#241c1c;stroke:none"
          x="1240.0964"
          y="-864.0658"
-         id="tspan4252-9">05/2017 - www.peppercarrot.com - Artwork &amp; Scenario : David Revoy</tspan></text>
+         id="tspan4252-9">05/2017 - www.peppercarrot.com - Artwork &amp; Scenario : David Revoy - Translation: Alex Gryson</tspan></text>
     <text
        id="text4151"
        y="-816.18878"
        x="1240.8662"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
        xml:space="preserve"
        sodipodi:linespacing="0%"><tspan
          id="tspan4153"
          y="-816.18878"
          x="1240.8662"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
-         sodipodi:role="line">Dialogue Improvements: Nicolas Artance, Valvin, Craig Maloney</tspan></text>
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         sodipodi:role="line">Dialogue Improvements: Nicolas Artance, Valvin, Craig Maloney.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"

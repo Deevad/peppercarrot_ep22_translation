@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P04.svg">
@@ -310,30 +310,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.44093638"
-     inkscape:cx="1526.3794"
-     inkscape:cy="883.26242"
-     inkscape:window-x="0"
+     inkscape:cx="1642.0423"
+     inkscape:cy="2928.909"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/code/peppercarrot_ep22_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -420,13 +420,13 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1284.246,252.22741 c 7.8433,-80.14693 76.4031,-115.58462 229.1307,-102.0994 89.1179,7.86875 204.9618,-1.84062 190.216,123.31596 -13.7915,117.05661 -180.1402,93.76238 -210.2063,95.14421 -30.0661,1.38198 -145.8443,3.65749 -180.0416,-29.99851 -26.2729,-25.857 -30.406,-61.48896 -29.0988,-86.36226 z"
+       d="m 1295.5741,250.08696 c 7.4205,-78.51153 72.2857,-113.22612 216.7827,-100.01606 84.3153,7.70819 193.9164,-1.80306 179.9653,120.79969 -13.0482,114.66807 -170.4325,91.84916 -198.8782,93.20279 -28.4459,1.35378 -137.9847,3.58286 -170.3392,-29.38639 -24.8571,-25.32938 -28.7674,-60.23427 -27.5306,-84.60003 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
        style="display:inline;fill:#ffffff;stroke:none"
-       d="m 1278.5482,127.59716 c 30.5751,-1.68186 42.778,11.06423 53.4436,22.64678 10.3593,11.24995 12.8847,21.65687 12.8847,21.65687 l 29.7703,-7.32346 -22.5213,-21.59716 c 0,0 -32.0507,-31.78511 -73.5773,-15.38303 z"
+       d="m 1289.8877,134.40086 c 30.5751,-1.68186 42.778,11.06423 53.4436,22.64678 10.3593,11.24995 12.8847,21.65687 12.8847,21.65687 l 29.7703,-7.32346 -22.5213,-21.59716 c 0,0 -32.0507,-31.78511 -73.5773,-15.38303 z"
        id="path3063-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccc" />
@@ -580,25 +580,25 @@
          id="tspan4282">… the perfect system!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="355.67532"
-       y="1910.9614"
+       y="1901.8898"
        id="text4246-2-3-1-3-9-0-5-3-3-6-9-3"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="355.67532"
-         y="1910.9614"
+         y="1901.8898"
          id="tspan4394">We no longer</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="355.67532"
-         y="1967.2114"
+         y="1958.1398"
          id="tspan4907">need experts to judge</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="355.67532"
-         y="2023.4614"
+         y="2014.3898"
          id="tspan4909">for quality!</tspan></text>
     <text
        xml:space="preserve"

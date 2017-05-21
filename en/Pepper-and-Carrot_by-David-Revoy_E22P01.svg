@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P01.svg">
@@ -117,13 +117,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.50655138"
-     inkscape:cx="1258.9161"
-     inkscape:cy="1302.8425"
+     inkscape:cx="1201.6662"
+     inkscape:cy="477.65474"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -134,27 +134,27 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/code/peppercarrot_ep22_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <rect
-       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
        id="rect4632-8-6-1"
-       width="413.12177"
-       height="198.36583"
-       x="213.48146"
-       y="1899.1154"
+       width="349.94952"
+       height="251.66743"
+       x="294.42093"
+       y="1895.1671"
        ry="40"
-       rx="29.550508" />
+       rx="29.55051" />
     <path
        style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 993.15181,2171.014 c -43.09438,-29.8746 -125.30019,-80.5305 -146.24629,-103.1479 l -16.54791,22.8126 c -12.29225,-2.4407 -54.74882,-38.6572 -63.03221,-47.2104 l -19.9425,20.6691 c -25.27418,-16.7783 -111.94735,-63.5086 -130.92572,-85.0896 l -4.55774,47.94 c 23.60285,20.2117 114.08408,55.1051 140.32099,64.1208 l 21.87133,-20.701 c 8.70491,10.4888 58.41082,38.7682 65.61721,45.5247 l 13.72027,-23.6602 z"
@@ -168,26 +168,31 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal'"
-       x="416.13934"
-       y="1953.3937"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="465.49268"
+       y="1949.4454"
        id="text4246-2-3-1"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3350"
-         x="416.13934"
-         y="1953.3937"
+         x="465.49268"
+         y="1949.4454"
          style="font-size:45px;line-height:1.25">Our great</tspan><tspan
          sodipodi:role="line"
-         x="416.13934"
-         y="2009.6437"
+         x="465.49268"
+         y="2005.6954"
          style="font-size:45px;line-height:1.25"
          id="tspan4848">magic contest</tspan><tspan
          sodipodi:role="line"
-         x="416.13934"
-         y="2065.8936"
+         x="465.49268"
+         y="2061.9453"
          style="font-size:45px;line-height:1.25"
-         id="tspan4850">can finally commence!</tspan></text>
+         id="tspan4850">can finally</tspan><tspan
+         sodipodi:role="line"
+         x="465.49268"
+         y="2118.1953"
+         style="font-size:45px;line-height:1.25"
+         id="tspan4158">commence!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4213);font-family:Lavi;-inkscape-font-specification:Lavi"
