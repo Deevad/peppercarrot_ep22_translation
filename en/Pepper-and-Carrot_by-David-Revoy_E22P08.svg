@@ -916,30 +916,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.56568545"
-     inkscape:cx="1396.2298"
-     inkscape:cy="2853.2925"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:zoom="0.28284273"
+     inkscape:cx="815.88565"
+     inkscape:cy="994.26235"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1065,7 +1065,8 @@
        id="text4580-6-0-0-0-1"
        transform="matrix(0.44026207,-0.29244135,-0.02017909,0.64277664,888.07455,-395.35125)"
        inkscape:transform-center-x="-295.89005"
-       inkscape:transform-center-y="124.68109"><tspan
+       inkscape:transform-center-y="124.68109"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2-2"
          x="787.65729"
@@ -1074,14 +1075,15 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4294-8);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2-9">Fr<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4294-8);fill-opacity:1"
-   id="tspan4241-3">rrshh </tspan>!</tspan></tspan></text>
+   id="tspan4241-3">rrshh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0"
-       transform="matrix(0.44026207,-0.29244135,-0.02017909,0.64277664,1394.0422,-113.78959)"><tspan
+       transform="matrix(0.44026207,-0.29244135,-0.02017909,0.64277664,1394.0422,-113.78959)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2"
          x="787.65729"
@@ -1090,19 +1092,20 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2">Fr<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4294);fill-opacity:1"
-   id="tspan4241">rrshh </tspan>!</tspan></tspan></text>
+   id="tspan4241">rrshh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.33107901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-7"
-       transform="matrix(0.33739004,-0.05008716,-0.20691278,0.42188934,1303.5349,348.33512)"><tspan
+       transform="matrix(0.33739004,-0.05008716,-0.20691278,0.42188934,1303.5349,348.33512)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-4"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.33107901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Krchh !</tspan></text>
+         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.33107901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Krchh!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.67640924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4375-4-1-1-1-9-6-9-2-1);font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -1134,7 +1137,8 @@
        x="604.64612"
        y="1442.5577"
        id="text4180-1"
-       transform="matrix(0.99830099,0,0,1.0017019,-1.6437905,0)"><tspan
+       transform="matrix(0.99830099,0,0,1.0017019,-1.6437905,0)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4182-2"
          x="610.95197"
@@ -1142,14 +1146,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'"> </tspan><tspan
          sodipodi:role="line"
          x="604.64612"
-         y="1514.0958"
+         y="1514.8702"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'"
          id="tspan4663">FLAMA<tspan
    style="font-size:60px"
-   id="tspan4665">aaaa</tspan>aaah !</tspan></text>
+   id="tspan4665">aaaa</tspan>aaah!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4393);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-2-7);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4393);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-2-7)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0-1-1"
@@ -1167,22 +1171,23 @@
    style="font-size:69.38005829px;fill:url(#linearGradient4393);fill-opacity:1"
    id="tspan4241-3-4">wwooo<tspan
    style="font-size:55.15313339px;fill:url(#linearGradient4393)"
-   id="tspan4773">oshh </tspan></tspan>!</tspan></tspan></text>
+   id="tspan4773">oshh</tspan></tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.78456187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-3"
-       transform="matrix(0.35846032,-0.60815828,0.29464439,1.2414789,790.20845,414.72153)"><tspan
+       transform="matrix(0.35846032,-0.60815828,0.29464439,1.2414789,790.20845,414.72153)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-7"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.78456187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Swwwiiip !</tspan></text>
+         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.78456187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Swwwiiip!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4401);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4401);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0-7"
@@ -1196,19 +1201,20 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4401);fill-opacity:1;stroke:none"
            id="tspan4315-8-9-2-7">Fs<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4401);fill-opacity:1"
-   id="tspan4241-2">ssh </tspan>!</tspan></tspan></text>
+   id="tspan4241-2">ssh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.33236313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-4)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-3-6"
-       transform="matrix(0.72752989,-0.6519553,0.08417536,0.9655441,-134.90783,2132.2771)"><tspan
+       transform="matrix(0.72752989,-0.6519553,0.08417536,0.9655441,-134.90783,2132.2771)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-7-8"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.33236313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Paf !</tspan></text>
+         style="font-size:70px;line-height:1.25;letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.33236313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Paf!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1223,7 +1229,7 @@
          id="tspan4161-6">?!!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0-7-1"
@@ -1237,10 +1243,10 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none"
            id="tspan4315-8-9-2-7-5">Fs<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4409);fill-opacity:1"
-   id="tspan4241-2-9">ssh </tspan>!</tspan></tspan></text>
+   id="tspan4241-2-9">ssh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4507);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6-5);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4507);fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0-7-1-5"
@@ -1254,7 +1260,7 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4507);fill-opacity:1;stroke:none"
            id="tspan4315-8-9-2-7-5-9">Fs<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4507);fill-opacity:1"
-   id="tspan4241-2-9-6">ssh </tspan>!</tspan></tspan></text>
+   id="tspan4241-2-9-6">ssh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"

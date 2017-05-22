@@ -1165,15 +1165,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1862"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33720864"
-     inkscape:cx="946.73812"
-     inkscape:cy="2668.8265"
-     inkscape:window-x="56"
-     inkscape:window-y="31"
+     inkscape:cx="894.84147"
+     inkscape:cy="701.22806"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -1182,13 +1182,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/vincent/Documents/perso/dev/peppercarrot_ep22_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep22_translation\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1320,15 +1320,19 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89124966px;line-height:125%;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4183);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89125061px;line-height:125%;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4183)"
        x="517.27045"
        y="228.40021"
        id="text4246-2-3-1-3-9-9-3-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4390">RELEASUS </tspan><tspan
+         id="tspan4390"
+         x="523.88184"
+         y="228.40021">RELEASUS </tspan><tspan
          sodipodi:role="line"
-         id="tspan4392">KRAKENIS !</tspan></text>
+         id="tspan4392"
+         x="517.27045"
+         y="294.51428">KRAKENIS!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4652);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-7)"
@@ -1337,7 +1341,8 @@
        id="text4580-6-0-0-0-18"
        transform="matrix(0.53701218,-0.18511943,-0.12960973,0.84567385,69.581212,-730.83161)"
        inkscape:transform-center-x="-63.131284"
-       inkscape:transform-center-y="-82.119963"><tspan
+       inkscape:transform-center-y="-82.119963"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2-79"
          x="787.65729"
@@ -1346,14 +1351,15 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4652);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2-2">Www<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4652);fill-opacity:1"
-   id="tspan4241-3">loo </tspan>!</tspan></tspan></text>
+   id="tspan4241-3">loo!</tspan></tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0"
-       transform="matrix(0.9402645,-0.62735016,-0.22693607,1.4682625,884.30284,-1068.9221)"><tspan
+       transform="matrix(0.9402645,-0.62735016,-0.22693607,1.4682625,884.30284,-1068.9221)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2"
          x="787.65729"
@@ -1364,7 +1370,7 @@
    style="font-size:113.42408752px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
    id="tspan4239">S</tspan>plaa<tspan
    style="font-size:69.38005829px;fill:url(#linearGradient4294);fill-opacity:1"
-   id="tspan4241">shh </tspan>!</tspan></tspan></text>
+   id="tspan4241">shh</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -1490,7 +1496,7 @@
            style="font-size:93.14950562px;fill:url(#linearGradient4855);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="tspan4315-8-9-2-4">Groo<tspan
    style="font-size:69.91014862px;fill:url(#linearGradient4855)"
-   id="tspan4869">wooo </tspan>!</tspan></tspan></text>
+   id="tspan4869">wooo</tspan>!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Lavi;-inkscape-font-specification:Lavi"
