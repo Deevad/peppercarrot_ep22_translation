@@ -15,7 +15,7 @@ License
 
 * English: Alex Gryson
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
-
+* Portuguese: Alexandre E. Almeida
 
 ## Artwork:
 
