@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="663"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P00.svg">
@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="821"
-     inkscape:window-height="657"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.16588995"
-     inkscape:cx="1234.8717"
-     inkscape:cy="-88.012822"
-     inkscape:window-x="416"
-     inkscape:window-y="313"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.46920763"
+     inkscape:cx="1340.5739"
+     inkscape:cy="133.9652"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\arkadiy.b\Desktop\archive\pc\peppercarrot_ep22_translation\ru\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep22_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P00.png"
-       width="2481"
-       height="663"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -72,14 +72,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="745.46094"
-       y="582.47577"
-       id="text4178"><tspan
+       x="866.94232"
+       y="584.60699"
+       id="text4178"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4180"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;fill:#2b1100;stroke:none"
-         x="745.46094"
-         y="582.47577">Эпизод 22: Система голосования</tspan></text>
+         x="866.94232"
+         y="584.60699">Эпизод 22: Голосование</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#301b0b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

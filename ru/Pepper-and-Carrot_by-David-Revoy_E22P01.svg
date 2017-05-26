@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P01.svg">
@@ -117,16 +117,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="816"
-     inkscape:window-height="760"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.17909296"
-     inkscape:cx="1449.8551"
-     inkscape:cy="1368.1285"
-     inkscape:window-x="364"
-     inkscape:window-y="275"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.50655139"
+     inkscape:cx="1648.713"
+     inkscape:cy="1753.5779"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -134,7 +134,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\arkadiy.b\Desktop\archive\pc\peppercarrot_ep22_translation\ru\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep22_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P01.png"
        width="2481"
        height="3503"
@@ -149,12 +149,12 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
        id="rect4632-8-6-1"
-       width="349.94952"
-       height="251.66743"
-       x="294.42093"
+       width="407.19937"
+       height="188.49516"
+       x="258.88654"
        y="1895.1671"
-       ry="40"
-       rx="29.55051" />
+       ry="29.959406"
+       rx="34.384815" />
     <path
        style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 993.15181,2171.014 c -43.09438,-29.8746 -125.30019,-80.5305 -146.24629,-103.1479 l -16.54791,22.8126 c -12.29225,-2.4407 -54.74882,-38.6572 -63.03221,-47.2104 l -19.9425,20.6691 c -25.27418,-16.7783 -111.94735,-63.5086 -130.92572,-85.0896 l -4.55774,47.94 c 23.60285,20.2117 114.08408,55.1051 140.32099,64.1208 l 21.87133,-20.701 c 8.70491,10.4888 58.41082,38.7682 65.61721,45.5247 l 13.72027,-23.6602 z"
@@ -171,38 +171,35 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="467.49268"
        y="1947.4454"
-       id="text4246-2-3-1"><tspan
+       id="text4246-2-3-1"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          x="467.49268"
          y="1947.4454"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
-         id="tspan3905">Наш</tspan><tspan
+         id="tspan3909">Мы наконец можем</tspan><tspan
          sodipodi:role="line"
          x="467.49268"
          y="2003.6954"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
-         id="tspan3911">конкурс магов,</tspan><tspan
+         id="tspan3368">приступить к нашему</tspan><tspan
          sodipodi:role="line"
          x="467.49268"
          y="2059.9453"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
-         id="tspan3903">наконец-то,</tspan><tspan
-         sodipodi:role="line"
-         x="467.49268"
-         y="2116.1953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha"
-         id="tspan3909">начинается!</tspan></text>
+         id="tspan3372">конкурсу магов!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213)"
        x="-447.29675"
        y="2872.5061"
        id="text4246"
-       transform="matrix(0.49197812,-0.17439938,-0.0864419,0.68586428,2224.6757,842.8289)"><tspan
+       transform="matrix(0.52794639,-0.19294224,-0.09276162,0.75878821,2252.8717,629.77951)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.81560516px;line-height:1.26999998;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:1.67631352;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.81560516px;line-height:1.26999998;font-family:Lobster;-inkscape-font-specification:Lobster;stroke:#000000;stroke-width:1.67631352;stroke-opacity:1"
          x="-447.29675"
          y="2872.5061"
-         id="tspan4172">Magic Contest</tspan></text>
+         id="tspan4172">Конкурс Магов</tspan></text>
   </g>
 </svg>

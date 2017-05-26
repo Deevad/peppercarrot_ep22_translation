@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P05.svg">
@@ -502,16 +502,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="503"
-     inkscape:window-height="419"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.16465752"
-     inkscape:cx="1520.2251"
-     inkscape:cy="656.36491"
-     inkscape:window-x="509"
-     inkscape:window-y="415"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.4657218"
+     inkscape:cx="1304.1446"
+     inkscape:cy="751.3844"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -519,13 +519,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\arkadiy.b\Desktop\archive\pc\peppercarrot_ep22_translation\ru\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep22_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -635,31 +635,28 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0"
-       transform="matrix(0.58382496,-0.31716821,-0.09367725,0.90588486,876.59678,-885.75933)"><tspan
+       transform="matrix(0.58382496,-0.31716821,-0.09367725,0.90588486,876.59678,-885.75933)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0"
          x="787.65729"
          y="1584.5073"
          style="font-size:70px;line-height:1.25;fill:#e0ffa1;fill-opacity:1;stroke:#ffffff;stroke-width:0.96671367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            style="font-size:93.14950562px;fill:#e0ffa1;fill-opacity:1;stroke:#ffffff;stroke-width:0.96671367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan4315-8-9">Вжжжж…</tspan></tspan></text>
+           id="tspan4315-8-9">Вжжжжух!..</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter3591)"
        x="398.35193"
        y="1040.2164"
        id="text4246-2-3-1-3-9-3-7-6-5-4-3"
-       transform="matrix(0.98015509,0,0,1.0202467,783.57452,46.97177)"><tspan
+       transform="matrix(0.73081863,0,0,2.1636747,881.87544,-1134.7382)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.7641716px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.7641716px;line-height:1.25;font-family:'Ruslan Display';-inkscape-font-specification:'Ruslan Display';fill:#ffffff;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="398.35193"
          y="1040.2164"
-         id="tspan4161-7">Сильвестрис</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:56.7641716px;line-height:1.25;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="406.27896"
-         y="1107.8821"
-         id="tspan4691-5"> </tspan></text>
+         id="tspan4691-5">Сильвестрис!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#e0ffa1;fill-opacity:1;stroke:#ffffff;stroke-width:0.65164882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"

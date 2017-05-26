@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P10.svg">
@@ -875,16 +875,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="732"
-     inkscape:window-height="581"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.16171625"
-     inkscape:cx="1509.7035"
-     inkscape:cy="1888.7264"
-     inkscape:window-x="313"
-     inkscape:window-y="371"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.45740263"
+     inkscape:cx="1651.2435"
+     inkscape:cy="791.49392"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -892,13 +892,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\arkadiy.b\Desktop\archive\pc\peppercarrot_ep22_translation\ru\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep22_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P10.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -943,7 +943,7 @@
        rx="34.424911" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1346.0893,2815.2708 c 1.3531,-73.1242 69.2034,-124.6316 254.9701,-105.333 99.5067,10.3373 212.2824,18.533 211.4493,125.6887 -0.8331,107.1556 -162.6741,99.5793 -195.8984,101.0959 -33.2242,1.5167 -210.3458,-0.9457 -242.9585,-38.3762 -20.4147,-23.4306 -26.7323,-60.3915 -27.5625,-83.0754 z"
+       d="m 1442.2847,2831.96 c 1.0296,-69.6667 52.6602,-118.7385 194.0192,-100.3525 75.7195,9.8485 161.536,17.6567 160.902,119.7457 -0.6339,102.0888 -123.7866,94.8709 -149.0686,96.3157 -25.2819,1.445 -160.0624,-0.9009 -184.879,-36.5616 -15.5345,-22.3227 -20.3419,-57.5359 -20.9736,-79.1473 z"
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -979,12 +979,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1635.9155"
        y="914.50378"
-       id="text4246-2-3-1-3-9-9-9-9-6"><tspan
+       id="text4246-2-3-1-3-9-9-9-9-6"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3477"
          x="1635.9155"
          y="914.50378"
-         style="font-size:45px;line-height:1.25">Как Вам угодно!</tspan></text>
+         style="font-size:45px;line-height:1.25">Ваш выход!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4601);fill-opacity:1;stroke:#ffffff;stroke-width:3.3832047;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-7-4)"
@@ -1201,69 +1202,74 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6"
-       transform="matrix(0.46865198,-0.21469604,-0.08652007,0.56890463,1367.8914,1900.377)"><tspan
+       transform="matrix(0.46865198,-0.21469604,-0.08652007,0.56890463,1367.8914,1900.377)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0078752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Plonk!</tspan></text>
+         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0078752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Бух!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1583.9023"
-       y="2773.1548"
-       id="text4246-2-3-1-3-9-9-9-9-61"><tspan
+       x="1616.6962"
+       y="2799.3899"
+       id="text4246-2-3-1-3-9-9-9-9-61"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1583.9023"
-         y="2773.1548"
-         id="tspan4798">Я была совсем</tspan><tspan
+         x="1616.6962"
+         y="2799.3899"
+         id="tspan5977">Забудь всё, что</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1583.9023"
-         y="2829.4048"
-         id="tspan5979">еправа</tspan><tspan
+         x="1616.6962"
+         y="2855.6399"
+         id="tspan3541">я сказала насчет</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1583.9023"
-         y="2885.6548"
-         id="tspan5977">насчёт этой системы</tspan></text>
+         x="1616.6962"
+         y="2911.8899"
+         id="tspan3543">этой системы...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.96124983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4-6-6)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-0-2-7"
-       transform="matrix(0.47593178,-0.22158346,-0.08786402,0.58715501,792.61691,2504.0868)"><tspan
+       transform="matrix(0.47593178,-0.22158346,-0.08786402,0.58715501,792.61691,2504.0868)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-0-6"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.96124983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тап</tspan></text>
+         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.96124983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тык</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.8942405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4-6)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-0-2"
-       transform="matrix(0.47631253,-0.23734805,-0.08793431,0.62892825,795.54265,2503.2544)"><tspan
+       transform="matrix(0.47631253,-0.23734805,-0.08793431,0.62892825,795.54265,2503.2544)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-0"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.8942405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тап</tspan></text>
+         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.8942405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тык</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.60702038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-0"
-       transform="matrix(0.53463705,-0.29379615,-0.09870188,0.77850522,770.2485,2370.2905)"><tspan
+       transform="matrix(0.53463705,-0.29379615,-0.09870188,0.77850522,770.2485,2370.2905)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.60702038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тап</tspan></text>
+         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.60702038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">тык</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#241c1c;fill-opacity:1;stroke:#000000;stroke-width:4.32200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

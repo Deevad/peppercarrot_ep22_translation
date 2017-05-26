@@ -73,14 +73,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.43937994"
-     inkscape:cx="1457.578"
-     inkscape:cy="4189.3748"
+     inkscape:zoom="0.62137707"
+     inkscape:cx="1395.2967"
+     inkscape:cy="4401.7224"
      inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -100,15 +100,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep22_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
-       width="2481"
-       height="5000"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4223"
+       y="-1023.3771"
        x="0.54707891"
-       y="-1023.3771" />
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5000"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -133,7 +133,7 @@
          style="font-size:36.73472214px;line-height:1.25;fill:#241c1c;stroke:none"
          x="1240.0964"
          y="-864.0658"
-         id="tspan4252-9">05/2017 - www.peppercarrot.com - Artwork &amp; Scenario : David Revoy - Translation: Alex Gryson</tspan></text>
+         id="tspan4252-9">05/2017 - www.peppercarrot.com - Сюжет и графика: Давид Ревуа; перевели: gleki и uncle Night</tspan></text>
     <text
        id="text4151"
        y="-816.18878"
@@ -145,22 +145,22 @@
          y="-816.18878"
          x="1240.8662"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
-         sodipodi:role="line">Dialogue Improvements: Nicolas Artance, Valvin, Craig Maloney.</tspan></text>
+         sodipodi:role="line">Правки диалогов: Nicolas Artance, Valvin, Craig Maloney.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Neucha;-inkscape-font-specification:Lavi"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Neucha;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
        x="1242.4336"
        y="-675.88531"
        id="text4246-42-4"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Neucha;-inkscape-font-specification:Lavi"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
          x="1242.4336"
          y="-675.88531"
-         id="tspan4252-9-9">Based on the Hereva universe created by David Revoy with contributions from Craig Maloney. Corrections by Willem Sonke, Moini, Hali, CGand and Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">Основано на Вселенной Эревы, созданной Давидом Ревуа с участием Craig Maloney. Авторы правок: Willem Sonke, Moini, Hali, CGand и Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1241.0786"
        y="-634.98932"
        id="text4229"
@@ -168,44 +168,45 @@
          sodipodi:role="line"
          x="1241.0786"
          y="-634.98932"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;fill:#241c1c;stroke:none;font-family:Neucha;-inkscape-font-specification:Lavi"
-         id="tspan4169">Software : Krita 3.1.3, Inkscape 0.91 on Linux Mint 18.1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Lavi;fill:#241c1c;stroke:none"
+         id="tspan4169">Программное обеспечение:: Krita 3.1.3, Inkscape 0.91 на Linux Mint 18.1</tspan></text>
     <text
        id="text4179"
        y="-590.45563"
        x="1241.3423"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
          id="tspan4181"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:'Lavi Bold';fill:#241c1c;stroke:none"
          y="-590.45563"
          x="1241.3423"
-         sodipodi:role="line">License : Creative Commons Attribution 4.0</tspan></text>
+         sodipodi:role="line">Лицензия : Creative Commons Attribution 4.0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155);font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
        x="1243.3711"
        y="-375.95465"
        id="text4162"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4164"
          x="1243.3711"
          y="-375.95465"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;fill:#483e37;font-family:Neucha;-inkscape-font-specification:Lavi">Pepper&amp;Carrot is entirely free, open-source,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan4166">Pepper &amp; Carrot - полностью бесплатный и свободный комикс,</tspan><tspan
          sodipodi:role="line"
          x="1243.3711"
          y="-325.95465"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;fill:#483e37;font-family:Neucha;-inkscape-font-specification:Lavi"
-         id="tspan4778">and sponsored thanks to the patronage of its readers.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan3364">спонсируемый своими читателями.</tspan><tspan
          sodipodi:role="line"
          x="1243.3711"
          y="-275.95465"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;fill:#483e37;font-family:Neucha;-inkscape-font-specification:Lavi"
-         id="tspan4166">For this episode, thanks go to the XXX Patrons:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan3366">За этот эпизод я выражаю благодарность XXX спонсорам:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:0%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4155);font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
        x="1240.1191"
        y="3842.3586"
        id="text4221"
@@ -214,6 +215,6 @@
          id="tspan4223"
          x="1240.1191"
          y="3842.3586"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;fill:#483e37;font-family:Neucha;-inkscape-font-specification:Lavi">You too can become a patron of Pepper&amp;Carrot on www.patreon.com/davidrevoy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Lavi;fill:#483e37">Вы тоже можете стать спонсором комикса Pepper &amp; Carrot на www.patreon.com/davidrevoy</tspan></text>
   </g>
 </svg>
