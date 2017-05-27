@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41468262"
-     inkscape:cx="1163.589"
-     inkscape:cy="1728.1231"
+     inkscape:cx="1188.9096"
+     inkscape:cy="667.07067"
      inkscape:window-x="231"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep22_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -143,12 +143,12 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0"
-       width="342.48804"
+       width="366.60287"
        height="155.10812"
-       x="1936.9312"
+       x="1922.4623"
        y="1341.4989"
        ry="40"
-       rx="35.500668" />
+       rx="38.000294" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 2192.6047,1464.2863 c -25.0108,27.1285 -2.0561,271.3313 83.4201,284.9495 -1.6379,7.2112 -29.3802,33.6228 -38.2077,38.9428 23.1156,-12.3173 55.6405,-32.3554 56.5803,-44.6937 -71.8085,5.3997 -108.6969,-229.5705 -79.3282,-275.7342 z"
@@ -386,7 +386,7 @@
          style="font-size:45px;line-height:1.25"
          x="371.61154"
          y="2711.3821"
-         id="tspan5105">con un sol colpo!</tspan></text>
+         id="tspan5105">in un sol colpo!</tspan></text>
     <text
        id="text4250"
        y="2751.4998"
