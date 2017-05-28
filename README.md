@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Dutch: Willem Sonke
 * English: Alex Gryson
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
