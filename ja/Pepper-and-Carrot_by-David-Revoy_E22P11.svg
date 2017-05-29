@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="5000"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P11.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.43937994"
+     inkscape:cx="932.97508"
+     inkscape:cy="3096.9262"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1425.8203,4914.3274"
+       orientation="0,1"
+       id="guide4214"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     transform="translate(0,1024)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep22_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       y="-1023.3771"
+       x="0.54707891"
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5000"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline"
+     transform="translate(0,1024)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline;opacity:0.85500004"
+     transform="translate(0,1024)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#241c1c;fill-opacity:1;stroke:none"
+       x="1240.0964"
+       y="-864.0658"
+       id="text4246-42"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:36.73472214px;line-height:1.25;fill:#241c1c;stroke:none"
+         x="1240.0964"
+         y="-864.0658"
+         id="tspan4252-9">05/2017 - www.peppercarrot.com - Artwork &amp; Scenario : David Revoy - Translation: guruguru</tspan></text>
+    <text
+       id="text4151"
+       y="-816.18878"
+       x="1240.8662"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         id="tspan4153"
+         y="-816.18878"
+         x="1240.8662"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         sodipodi:role="line">ダイアログ改善: Nicolas Artance, Valvin, Craig Maloney.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium'"
+       x="1242.4336"
+       y="-675.88531"
+       id="text4246-42-4"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium'"
+         x="1242.4336"
+         y="-675.88531"
+         id="tspan4252-9-9">Based on the Hereva universe created by David Revoy with contributions from Craig Maloney. Corrections by Willem Sonke, Moini, Hali, CGand and Alex Gryson.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       x="1241.0786"
+       y="-634.98932"
+       id="text4229"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         x="1241.0786"
+         y="-634.98932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:#241c1c;stroke:none"
+         id="tspan4169">ソフトウェア : Krita 3.1.3, Inkscape 0.91 on Linux Mint 18.1</tspan></text>
+    <text
+       id="text4179"
+       y="-590.45563"
+       x="1241.3423"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         id="tspan4181"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';fill:#241c1c;stroke:none"
+         y="-590.45563"
+         x="1241.3423"
+         sodipodi:role="line">ライセンス : Creative Commons Attribution 4.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       x="1243.3711"
+       y="-375.95465"
+       id="text4162"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         x="1243.3711"
+         y="-375.95465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:#483e37"
+         id="tspan4166">Pepper&amp;Carrot は完全にフリーでオープンソースです</tspan><tspan
+         sodipodi:role="line"
+         x="1243.3711"
+         y="-325.95465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:#483e37"
+         id="tspan4164">読者パトロンによる支援に支えられています</tspan><tspan
+         sodipodi:role="line"
+         x="1243.3711"
+         y="-275.95465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:#483e37"
+         id="tspan4167">このエピソードの XXX 人のパトロンに感謝します:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       x="1240.1191"
+       y="3842.3586"
+       id="text4221"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4223"
+         x="1240.1191"
+         y="3842.3586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';fill:#483e37">あなたもPepper&amp;Carrotのパトロンになりませんか？ www.patreon.com/davidrevoy</tspan></text>
+  </g>
+</svg>
