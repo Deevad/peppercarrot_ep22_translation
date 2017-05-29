@@ -16,6 +16,7 @@ License
 * English: Alex Gryson
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
+* Japanese: guruguru
 * Mexicano: Quiralta
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
