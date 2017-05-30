@@ -15,6 +15,7 @@ License
 
 * English: Alex Gryson
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
+* Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Mexicano: Quiralta
