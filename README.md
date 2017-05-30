@@ -29,6 +29,8 @@ License
 
 * Russian: gleki, Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 
 ## Artwork:
 
