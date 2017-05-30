@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.41468262"
-     inkscape:cx="1087.6272"
-     inkscape:cy="1803.341"
+     inkscape:cx="1377.0051"
+     inkscape:cy="1417.5038"
      inkscape:window-x="127"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -256,7 +256,7 @@
          style="font-size:45px;line-height:1.25"
          x="1604.2745"
          y="661.94434"
-         id="tspan3405">teilnehm</tspan></text>
+         id="tspan3405">teilnehmen!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -320,7 +320,7 @@
          x="1220.4257"
          y="2273.4934"
          style="font-size:45px;line-height:1.25"
-         id="tspan3531">nehmen Sie einen weg!</tspan></text>
+         id="tspan3531">ziehen Sie einen ab!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
