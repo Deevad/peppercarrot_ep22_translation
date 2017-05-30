@@ -31,6 +31,8 @@ License
 
 * Slovak: talime
 
+* Swedish: Mikael "Quiphius" Olofsson
+
 
 ## Artwork:
 
