@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
+
 * English: Alex Gryson
 
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
