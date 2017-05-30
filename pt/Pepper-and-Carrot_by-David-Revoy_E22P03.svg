@@ -515,7 +515,7 @@
      showgrid="false"
      inkscape:zoom="0.45406944"
      inkscape:cx="1522.9792"
-     inkscape:cy="1399.6249"
+     inkscape:cy="1751.9939"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -528,11 +528,11 @@
     <image
        sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep22_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -659,7 +659,7 @@
          style="font-size:45px;line-height:1.25"
          x="407.45877"
          y="1948.0242"
-         id="tspan4975">Não esquecam, o</tspan><tspan
+         id="tspan4975">Não esqueçam, o</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="407.45877"
