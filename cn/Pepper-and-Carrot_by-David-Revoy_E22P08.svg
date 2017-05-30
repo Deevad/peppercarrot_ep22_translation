@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P08.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4763">
+      <stop
+         id="stop4767"
+         offset="0"
+         style="stop-color:#ff6a05;stop-opacity:1" />
+      <stop
+         id="stop4765"
+         offset="1"
+         style="stop-color:#d40000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4361"
+       inkscape:collect="always">
+      <stop
+         id="stop4363"
+         offset="0"
+         style="stop-color:#e47107;stop-opacity:1" />
+      <stop
+         id="stop4365"
+         offset="1"
+         style="stop-color:#ffbf0b;stop-opacity:1" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4294"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4288">
+      <stop
+         style="stop-color:#07b5e4;stop-opacity:1;"
+         offset="0"
+         id="stop4290" />
+      <stop
+         style="stop-color:#d0f5ff;stop-opacity:1"
+         offset="1"
+         id="stop4292" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4" />
+      <feTurbulence
+         id="feTurbulence4546-3-6"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7" />
+      <feFlood
+         id="feFlood4672-4-4"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4288"
+       id="linearGradient4273"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4288"
+       id="linearGradient4281"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4288"
+       id="linearGradient4289"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4294-8"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-2"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-0"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-3"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-5" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-9"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-2"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-2" />
+      <feFlood
+         id="feFlood4672-4-4-8"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-9"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-7"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-3"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-6"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4393"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4401"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4409"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-2-7"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-0-8"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-2-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-3-5"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-5-3" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-9-6"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-2-1"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-2-0" />
+      <feFlood
+         id="feFlood4672-4-4-8-6"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-9-3"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-7-2"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-3-0"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-6-6"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4507"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4515"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4523"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-6"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:label="Magmah-FX"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Horizontal rippling of edges"
+       style="color-interpolation-filters:sRGB"
+       id="filter4265-7"
+       y="-0.1">
+      <feTurbulence
+         numOctaves="1"
+         baseFrequency="0.002 0.107"
+         id="feTurbulence4267-7" />
+      <feColorMatrix
+         values="5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 "
+         result="result91"
+         id="feColorMatrix4269-1" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         xChannelSelector="R"
+         scale="14.3"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap4271-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Magmah-spell-glow"
+       id="filter4751">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood4753" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4755" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5.4"
+         result="blur"
+         id="feGaussianBlur4757" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4759" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4761" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4763"
+       id="radialGradient4769"
+       cx="438.56332"
+       cy="238.34987"
+       fx="438.56332"
+       fy="238.34987"
+       r="324.33624"
+       gradientTransform="matrix(1,0,0,0.36474659,0,151.41257)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-5"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-6-3"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-5-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-6-7"
+         operator="dilate"
+         radius="6"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-9-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-4"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-9"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-20"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-6"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-9" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-2"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-6"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-6" />
+      <feFlood
+         id="feFlood4672-4-4-4"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-95"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-0"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-4"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-8"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4869"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4877"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4885"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-4-6"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-9-1"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-20-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-6-6"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-8-1"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-9-5" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-2-9"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-6-4"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-6-9" />
+      <feFlood
+         id="feFlood4672-4-4-4-0"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-95-9"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-0-1"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-4-7"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-8-7"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4982"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4990"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient4998"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-8-8-5-4-6-5"
+       inkscape:label="soundFX-fire">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-3-1-2-9-1-6"
+         flood-opacity="1"
+         flood-color="rgb(171,34,14)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-1-0-6-20-0-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1"
+         baseFrequency="0.053999999999999999 0.053999999999999999" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-0-1-9-6-6-9"
+         operator="dilate"
+         radius="6.2000000000000002"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-7-5-4-8-1-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4544-9-4-9-5-8" />
+      <feTurbulence
+         id="feTurbulence4546-3-6-2-9-1"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="174"
+         baseFrequency="0.053999999999999999 0.054054054054054057"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4548-8-0-6-4-2"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4670-7-7-6-9-9" />
+      <feFlood
+         id="feFlood4672-4-4-4-0-3"
+         flood-opacity="1"
+         flood-color="rgb(103,29,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4674-8-3-95-9-9"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4676-3-7-0-1-0"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset4678-6-9-4-7-8"
+         dx="6"
+         dy="6"
+         result="offset" />
+      <feComposite
+         id="feComposite4680-4-0-8-7-8"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient5130"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient5138"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4361"
+       id="linearGradient5146"
+       x1="754.64325"
+       y1="1552.0063"
+       x2="1186.035"
+       y2="1552.0063"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="1075.2438"
+     inkscape:cy="1313.4118"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="D:\GitHub\peppercarrot_ep22_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 702.07639,241.99526 c -15.21531,-0.32937 -30.15113,2.07984 -43.90826,5.51509 -10.02058,0.0455 -18.0586,-4.27511 -28.04598,-4.37963 -17.00188,-0.90876 -34.27547,2.18671 -47.77466,7.90415 -1.6864,0.76154 -3.60336,1.42931 -5.87458,1.26604 -6.03786,-0.11919 -11.46373,-2.167 -17.59764,-1.89504 -7.75901,-0.11851 -15.39671,1.16655 -22.2508,3.11586 -15.59835,-1.71074 -31.00712,-5.09168 -47.16429,-4.27343 -10.69934,0.48372 -21.04529,2.20486 -31.19984,4.04858 -12.48179,-2.657 -24.92528,-6.27086 -38.63289,-6.1803 -10.55847,0.28265 -20.92031,1.87718 -30.48461,4.34078 -10.55772,-7.22707 -31.82986,-8.45024 -44.8386,-2.58164 -7.93068,0.56509 -14.41804,-2.60793 -21.81508,-3.53756 -18.48195,-2.82173 -37.80674,-1.60904 -56.69734,-1.48508 -18.7523,0.27318 -37.46834,2.26258 -54.88742,6.15294 -10.97326,1.71792 -23.0864,2.14779 -32.56176,6.00353 -10.7677,5.24783 -16.10944,12.93674 -19.84088,20.4143 -3.27604,6.83142 -7.13131,13.8669 -15.53776,19.3494 -8.6348,7.31727 -8.74977,16.94988 -2.94549,24.89703 2.21635,3.45261 5.46847,6.6719 9.13673,9.70969 -0.87198,4.7131 -8.16148,8.46506 -7.35655,13.35667 -0.2734,11.3073 3.18064,22.74691 11.41503,33.1281 5.4607,5.78507 31.70598,9.65206 40.4057,8.50809 1.99143,5.30647 10.81054,10.14602 22.51222,14.1591 14.93691,4.41311 40.33674,0.40649 57.28047,-0.54613 6.10868,5.49359 19.29376,4.67928 32.68009,6.71087 10.67894,1.14593 21.91378,2.78407 32.66917,0.98224 6.12737,-1.18418 13.23485,-2.11664 19.33889,-0.3871 9.39807,1.95445 19.49288,4.16308 29.68081,2.92148 7.87415,-1.09567 15.87368,-3.33916 24.15955,-2.19447 12.48522,2.0006 25.24594,4.74225 38.476,3.78605 15.75237,-0.90376 31.61124,-3.39317 47.49096,-1.75743 10.98816,1.07223 22.58079,2.4422 33.51081,0.46484 6.79552,-1.88679 15.21767,-1.29742 21.44107,1.00522 10.03569,2.5416 20.97189,5.06785 32.23622,4.13024 9.03594,-1.15859 17.27595,-4.51425 26.8898,-4.01358 10.97073,0.20584 22.77023,0.24262 32.45448,-3.04529 7.07036,-2.49545 15.8204,-3.80056 24.12122,-2.75486 17.89767,0.61322 35.34962,-3.65245 48.85314,-9.95116 5.92989,-2.51724 10.4444,-5.93093 16.40378,-8.40747 8.66484,-2.22759 19.04751,-1.16269 27.31998,-4.01824 13.915,-3.62863 26.43251,-9.88284 31.25295,-18.17517 1.84289,-3.70616 8.33682,-5.67596 13.56978,-7.77906 5.66284,-2.04113 9.56758,-5.30013 11.46403,-8.86121 4.27856,-6.74828 6.27501,-14.04776 4.63276,-21.17146 -1.87749,-4.55481 -8.07455,-8.50799 -7.356,-13.37812 0.54224,-9.2414 5.24462,-18.49155 2.18451,-27.73386 -3.5089,-9.7173 -16.46256,-17.78268 -32.08795,-22.24396 -7.62518,-2.29032 -16.20459,-3.16707 -24.44195,-4.50265 -9.05799,-1.52144 -15.0278,-5.85242 -21.62998,-9.32078 -9.64273,-5.19628 -23.40471,-7.49004 -36.64984,-7.29561 z"
+       id="path4043-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 688.33127,419.28907 c -1.2969,-8.327 6.9164,-12.4905 6.9164,-12.4905 0,0 -8.2133,-6.4345 1.2968,-12.8691 9.51,-6.4345 18.1554,1.5141 18.1554,1.5141 0,0 12.1037,-12.4906 23.3427,1.8925 11.2392,14.383 0,22.3315 0,22.3315 0,0 6.4842,15.1401 -10.8068,18.5466 -17.2909,3.4065 -22.0459,1.1355 -26.3687,-7.9485 -12.1036,-3.0281 -12.5358,-10.9766 -12.5358,-10.9766 z"
+       id="path5098"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 692.1112,475.56165 c -4.24238,-4.2985 -1.51511,-8.82321 2.12118,-9.72816 3.63636,-0.90494 11.21209,-0.22628 13.33335,4.29843 6.06056,-2.0361 9.99993,2.03617 10.30293,3.84606 0.30308,1.80988 -0.303,5.42966 -0.303,5.42966 0,0 4.84846,11.08553 -3.03035,14.25286 -7.87867,3.16734 -15.45447,-2.26239 -15.45447,-7.69204 -5.75755,2.26239 -11.5151,-0.45244 -10.90901,-3.61978 0.60608,-3.16726 3.93937,-6.78703 3.93937,-6.78703 z"
+       id="path5106"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1939.3294,164.7192 c -6.2283,17.21405 -41.3569,18.65751 -54.2887,15.15846 26.0675,19.25708 25.1587,31.22181 -10.2336,33.07955 59.3536,34.70629 10.8506,29.45441 1.2838,38.25494 46.6035,11.96054 31.1567,30.08821 1.2432,38.42125 53.5662,0.50897 40.5986,12.72552 20.3185,30.30476 23.7169,-11.50907 60.3026,-19.78538 61.6007,10.30549 34.3639,-26.28645 52.094,-25.77514 64.5206,3.95041 10.3801,-25.63219 45.7249,-30.56553 59.24,-2.92178 11.6424,-37.41178 53.1838,-32.14411 77.9119,-14.01296 -13.8812,-12.7968 -4.4155,-33.86624 42.9105,-29.60589 -3.8093,-11.72922 2.1812,-26.53422 26.0803,-24.57977 -27.5288,-7.08529 -32.6022,-14.3936 18.5125,-22.25847 -38.8953,-0.76075 -75.1655,-2.31938 -29.5328,-29.14088 -14.3162,-0.64901 -48.283,21.73159 -32.4464,-43.76572 -41.9291,19.31354 -85.9884,29.18578 -83.8207,-11.38174 -15.5881,21.94283 -42.6253,32.80104 -54.3879,5.39268 -9.71,25.60336 -39.203,14.88263 -54.5241,-2.593 -10.1234,17.34268 -25.267,29.05516 -54.3878,5.39267 z"
+       id="path3549-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1718.5156,401.26753 c 48.9328,-23.69711 222.4427,-95.53733 227.3073,-135.37619 6.8766,-56.31559 0.2535,-31.22768 0.2535,-31.22768 l 28.5516,47.34069 c 4.6298,0.0649 -137.3086,93.19891 -256.1124,119.26318 z"
+       id="path3072-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4769);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4265-7);enable-background:accumulate"
+       d="m 168.28312,242.56886 c 0,-59.7361 29.8086,-90.5375 118.2404,-96.1379 88.4319,-5.6002 342.7586,-13.9748 381.5097,5.6261 38.751,19.601 38.7901,48.5099 40.7774,87.7117 1.9872,39.2018 -86.4447,99.8714 -174.8765,97.0713 -88.4319,-2.8002 -252.71431,7.13546 -300.40791,-6.86524 -47.6936,-14.0007 -64.80526,-54.51924 -65.24309,-87.40596 z"
+       id="path3986-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc"
+       transform="matrix(0.05467019,-0.39560037,2.3852439,0.00840476,4.5104184,1621.6171)" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1081.3751,2501.7988 c 3.2527,-11.3215 20.627,-46.387 25.7118,-9.2908 37.4381,-49.6727 83.6395,-32.1693 93.8806,-24.9317 -4.7258,-14.704 4.8022,-41.1365 32.0153,-34.6371 -5.1706,-14.2063 2.6362,-24.8732 22.022,-32.3819 -27.4731,-6.645 -33.2796,-15.2908 15.0553,-28.9371 -37.6389,2.0456 -72.8702,2.9007 -32.2408,-33.7574 -13.9008,0.2967 -43.8343,30.571 -36.8893,-51.6076 -21.0909,27.809 -44.9596,44.1275 -82.345,-7.6374 -7.5628,22.2148 -20.6761,37.8516 -51.7969,10.8375 -3.8196,21.7569 -37.5549,26.2154 -50.4824,22.8831 27.6128,21.8028 28.2717,36.6578 -5.6527,41.6714 61.708,38.3446 14.2263,35.6004 6.113,47.2134 46.5049,11.2067 28.2717,31.1822 22.1502,50.136 51.7672,-3.4832 37.8708,27.2285 42.4589,50.4396 z"
+       id="path3549-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1131.712,2455.8179 c 6.2225,27.4825 16.5932,59.1133 19.7045,66.3728 6.2224,-7.2595 12.9634,-12.4449 18.1488,-16.5932 4.6668,14.0005 22.8156,80.3733 20.7414,97.485 6.741,-42.0015 -3.6297,-93.3367 -12.9634,-115.6338 -7.778,4.1483 -11.9263,7.778 -16.0746,9.8522 -5.1854,-10.8893 -14.5191,-49.7796 -14.5191,-49.7796 z"
+       id="path5066"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1892.5292,3188.7346 c 32.9673,7.736 34.7414,18.0664 3.9895,31.1019 32.1646,-0.7606 26.1003,6.6533 11.1191,15.974 45.2545,31.9483 37.2389,62.5997 27.9703,93.2204 41.5501,-24.6021 46.1004,-1.0546 58.7536,11.9482 5.9213,-34.6844 12.965,-15.483 20.3222,18.7544 5.0994,-44.0914 11.4931,-49.27 19.0675,-18.9639 6.3171,-28.7602 17.162,-42.1592 33.2111,-37.9017 25.8141,-32.3785 40.261,-1.9503 58.382,8.1776 3.9825,-29.3421 16.9248,-33.8128 32.7235,-30.354 6.0324,-13.6292 9.864,-32.0743 31.104,-12.426 2.2945,-23.9469 13.2997,-10.5347 21.6282,-8.6032 -10.8539,-10.1656 5.6402,-18.5249 53.5912,-24.8062 -18.9077,-1.606 -18.2725,-10.8993 5.4283,-29.2657 -28.5993,-4.228 -29.5698,-18.3382 -16.0258,-37.6396 -33.4569,-13.7654 -3.8868,-44.3783 9.9567,-70.7874 -30.9967,19.4286 -56.5141,26.3266 -65.1811,-5.3119 -46.2027,39.5699 -40.2188,23.3256 -36.6141,9.6258 -27.3542,39.6906 -27.9748,11.7609 -36.5561,3.967 -79.1332,61.7411 -79.5135,21.5689 -98.3172,5.2385 -2.9703,46.9936 -21.7712,34.5736 -40.6376,21.908 3.8435,37.9105 -7.5858,29.8419 -18.6958,22.7345 0.062,16.8137 -9.7346,24.5299 -32.8224,19.9801 16.9638,8.9294 7.3793,14.0571 -42.3971,13.4292 z"
+       id="path4289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1887.3215,3381.0916 c 58.1864,-24.0464 81.2101,-45.1344 101.8154,-66.0111 9.6953,-9.8229 -19.046,-21.1368 -19.046,-21.1368 l -15.7859,22.4288 c 0,0 -19.7655,38.2932 -66.9835,64.7191 z"
+       id="path4000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc"
+       inkscape:transform-center-x="-312.46852"
+       inkscape:transform-center-y="-2.166888" />
+    <path
+       style="fill:#d40000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 770.60065,1465.6323 c 4.61452,-4.8105 4.76031,-11.8487 5.17178,-18.0965 0.47655,-5.0179 2.33565,-10.5129 7.00775,-13.0915 4.48022,-3.18 9.91917,-5.2075 15.47201,-4.7025 2.90071,0.167 5.75898,0.7993 8.51783,1.6942 -1.969,-1.3535 -4.69984,-1.4407 -6.96121,-2.3306 -3.15319,-0.8753 -6.36837,-1.583 -9.40125,-2.8379 -0.50846,-2.4994 4.08235,-1.1969 5.90476,-1.4458 2.85531,0.1407 5.73597,0.4174 8.58083,-0.01 0.11895,-2.4585 1.81847,-5.3324 2.67408,-8.1496 3.01357,-8.9058 2.23767,-20.8749 8.63715,-26.8517 4.6652,-5.6225 13.91267,-8.9802 22.7853,-8.9528 7.67623,-0.3542 13.2568,-0.9119 19.04744,3.0528 8.41783,3.0903 4.00382,0.9894 9.66529,3.2722 3.27217,1.1436 11.50731,6.5162 14.22696,8.7368 -6.5847,-8.9636 -17.50852,-12.8466 -25.72027,-19.966 -2.04064,-1.4582 -6.47368,-3.18 -12.24755,-4.3885 -8.92568,-1.2722 -11.0277,-1.0183 -19.9542,-2.2803 -4.72078,1.2496 -9.44151,2.4994 -14.16227,3.7491 -7.16881,3.998 -11.8246,10.4516 -18.19072,15.0536 -5.28563,3.5806 -10.74021,7.2155 -14.68438,12.3156 -1.31995,3.1331 2.02042,5.6525 4.23483,7.2561 3.3693,1.8325 3.68207,5.5782 4.62164,8.5401 0.0307,2.0308 -1.88454,4.8978 0.5639,6.2205 -3.90116,0.6671 -5.45607,-5.6619 -9.4936,-3.7896 -2.8453,1.3062 -4.58766,4.1245 -7.25269,5.7019 -3.27007,2.7713 -7.04981,5.1 -9.341,8.8418 -2.81767,3.8288 -5.6354,7.6575 -8.45311,11.4863 6.26889,6.9734 12.37461,14.096 18.7507,20.9713 z"
+       id="path4345"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="492.09351"
+       y="315.13477"
+       id="text4246-2-3-1-3-9-9-36"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4365"
+         x="492.09351"
+         y="315.13477">嗯！绝对不能输给这个螺旋藻！</tspan><tspan
+         sodipodi:role="line"
+         x="492.09351"
+         y="371.38477"
+         id="tspan3549">是用尽全力的时候了！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="2062.6411"
+       y="254.92725"
+       id="text4246-2-3-1-3-9-9"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="2062.6411"
+         y="254.92725"
+         id="tspan4161">松茸，靠边！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294-8);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-2)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-1"
+       transform="matrix(0.44026207,-0.29244135,-0.02017909,0.64277664,888.07455,-395.35125)"
+       inkscape:transform-center-x="-295.89005"
+       inkscape:transform-center-y="124.68109"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-2"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294-8);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294-8);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2-9">哄 !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0"
+       transform="matrix(0.44026207,-0.29244135,-0.02017909,0.64277664,1394.0422,-113.78959)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2">哄 !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.33107901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-4)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-1-7-3-6-7"
+       transform="matrix(0.33739004,-0.05008716,-0.20691278,0.42188934,1303.5349,348.33512)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1-4"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.33107901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">沙沙 !</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.67640924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-1-7-3-6"
+       transform="matrix(0.41463955,-0.21651977,-0.07654858,0.57373717,2001.5427,63.146459)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.67640924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">喵 !</tspan></text>
+    <text
+       transform="matrix(1.3677321,0,0,1.5597356,-227.98045,-816.12771)"
+       id="text3586"
+       y="1442.5577"
+       x="604.64612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4751)"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         id="tspan3590"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         y="1442.5577"
+         x="604.64612"
+         sodipodi:role="line">烈焰</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4751)"
+       x="604.64612"
+       y="1442.5577"
+       id="text4180-1"
+       transform="matrix(1.001333,0,0,0.92613737,9.0521633,116.56738)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4182-2"
+         x="611.1983"
+         y="1442.5577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"> </tspan><tspan
+         sodipodi:role="line"
+         x="604.64612"
+         y="1505.6162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         id="tspan4663">之燃…啊啊啊！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4393);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-2-7)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-1-1"
+       transform="matrix(0.96260424,-0.65489848,-0.03536691,1.3793666,-525.48092,310.2796)"
+       inkscape:transform-center-x="-651.41186"
+       inkscape:transform-center-y="248.5494"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-2-5"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4393);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4393);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2-9-5">烧！</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.78456187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-1-7-3-6-3"
+       transform="matrix(0.35846032,-0.60815828,0.29464439,1.2414789,790.20845,414.72153)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1-7"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.78456187;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">滑 !</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4401);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-7"
+       transform="matrix(0.79953711,-0.5103772,-0.0366462,1.1217926,132.99641,1216.9386)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-1"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4401);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4401);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2-7">烧<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.38005829px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4401);fill-opacity:1"
+   id="tspan4241-2" /> !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.33236313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-4)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-1-7-3-6-3-6"
+       transform="matrix(0.72752989,-0.6519553,0.08417536,0.9655441,-134.90783,2132.2771)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1-7-8"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:10.62820244px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.33236313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">啪唧 !</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       x="1723.3469"
+       y="2172.8474"
+       id="text4246-2-3-1-3-9-9-7"
+       transform="matrix(0.89365156,0,-0.19329856,1.1190044,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-size:104.29582214px;line-height:1.25;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="1723.3469"
+         y="2172.8474"
+         id="tspan4161-6">?!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4409);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-7-1"
+       transform="matrix(0.93910536,-0.7621869,0.18588011,1.2291386,186.99961,1958.4197)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-1-1"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4409);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4409);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2-7-5">烧<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.38005829px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4409);fill-opacity:1"
+   id="tspan4241-2-9" /> !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4507);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-4-6-5)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-0-0-0-7-1-5"
+       transform="matrix(0.78023356,-0.73773231,0.12940894,0.99375194,1311.919,1729.8661)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-1-0-2-1-1-0"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4507);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4507);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           id="tspan4315-8-9-2-7-5-9"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.38005829px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4507);fill-opacity:1"
+   id="tspan4241-2-9-6" />烧 !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1610.6255"
+       y="4462.6211"
+       id="text4246-2-3-1-3-9-9-3"
+       transform="matrix(1.0998012,-0.42939082,0.07173635,0.88124754,0,0)"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.1639328px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="1610.6255"
+         y="4462.6211"
+         id="tspan4161-5">哎呀!<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.84527588px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+   id="tspan5246">!</tspan></tspan></text>
+  </g>
+</svg>
