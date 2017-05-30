@@ -1305,6 +1305,114 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7-5-5"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-3-6-2"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-6-9-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-1-3-6"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2-7-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7-1-6-6"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-3-9-1-3"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-6-4-5-9"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-1-7-5-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2-8-4-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7-5-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-3-6-3"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-6-9-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-1-3-61"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-7-5-2"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-3-6-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-6-9-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-1-3-3"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2-7-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -1315,16 +1423,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="811"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.33118508"
-     inkscape:cx="1351.49"
-     inkscape:cy="1293.1252"
-     inkscape:window-x="262"
-     inkscape:window-y="59"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.4"
+     inkscape:cx="1133.9379"
+     inkscape:cy="640.3831"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -1332,7 +1440,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
+       sodipodi:absref="D:\GitHub\peppercarrot_ep22_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
        width="2481"
        height="3503"
@@ -1356,31 +1464,31 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 998.57835,2699.741 c -18.11058,32.9889 -42.55588,74.2017 -130.45463,75.3298 3.16242,1.4167 109.37636,9.5202 156.34138,-47.7118 68.8673,-83.9224 63.6805,-107.3184 63.6805,-107.3184 z"
+       d="m 1006.0783,2674.741 c -18.11053,32.9889 -42.55583,74.2017 -130.45458,75.3298 3.16242,1.4167 109.37636,9.5202 156.34138,-47.7118 68.8673,-83.9224 63.6805,-107.3184 63.6805,-107.3184 z"
        id="path4064"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 920.83012,2614.6225 c -2.03335,-53.8814 13.31774,-88.4086 101.48758,-117.5424 82.9212,-27.3996 167.7202,-20.5709 232.5841,-17.6199 60.4186,2.7487 122.3655,1.0244 193.6945,43.9486 44.5079,26.7839 71.089,65.827 67.4413,104.1756 -3.9795,41.8374 2.223,86.3226 -48.2692,110.1957 -72.5695,34.3114 -295.7817,23.6057 -339.549,21.9924 -57.5453,-2.1213 -118.0142,-14.3342 -148.42557,-37.3871 -36.36285,-27.5645 -56.9306,-53.8814 -58.96371,-107.7629 z"
+       d="m 955.27355,2592.5528 c -1.7762,-41.5138 11.63356,-68.1157 88.65335,-90.5623 72.4348,-21.1103 146.5099,-15.849 203.1708,-13.5755 52.778,2.1178 106.891,0.7893 169.1996,33.8609 38.8793,20.636 62.0989,50.7173 58.9125,80.2635 -3.4763,32.2341 1.9418,66.5084 -42.165,84.9017 -63.3922,26.4358 -258.3765,18.1875 -296.6089,16.9445 -50.268,-1.6344 -103.0898,-11.044 -129.6553,-28.8055 -31.76434,-21.2375 -49.73105,-41.5136 -51.50705,-83.0273 z"
        id="path3373"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssssz" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1170.0855,2142.6148 1.5347,-74.0217 1.0972,-33.4302 15.1052,3.4822 c 0,0 11.6887,-96.1189 15.5481,-138.7593 -0.3194,24.7561 -3.9965,156.6802 -3.9965,156.6802 l -14.3147,1.8172 1.1424,56.8143 7.3473,16.2331 c -5.1555,40.2332 -15.9615,97.7133 -23.4637,11.1842 z"
+       d="m 1170.0855,2145.4225 1.5347,-74.0217 1.0972,-33.4302 15.1052,3.4822 c 0,0 11.6887,-96.1189 15.5481,-138.7593 -0.3194,24.7561 -3.9965,156.6802 -3.9965,156.6802 l -14.3147,1.8172 1.1424,56.8143 7.3473,16.2331 c -5.1555,40.2332 -15.9615,97.7133 -23.4637,11.1842 z"
        id="path4230"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 970.55622,2140.051 c 25.44849,10.0096 51.39098,19.8838 7.50678,48.9003 42.2302,-8.4642 16.71311,7.6285 6.60578,18.1355 75.20652,-22.5411 27.23822,11.5149 9.21536,31.8115 17.23146,-8.8961 65.65846,-57.0891 37.06016,-6.4824 31.7415,-35.7163 31.2939,-23.6846 25.7997,3.1777 9.2096,-15.8194 17.5759,-29.935 10.9963,-1.6592 8.3797,-16.0436 16.991,-33.3891 29.0121,-8.7827 5.4592,-11.2635 12.1207,-13.4432 21.6327,3.2448 13.594,-20.0366 16.3899,-13.0789 22.2124,-0.442 4.7028,-21.2467 33.5266,-22.4104 41.657,-3.4315 0.085,-25.4949 23.1697,-13.8256 56.4285,0.7119 -14.8669,-13.2225 8.8073,-20.0245 34.4912,-10.2667 -16.2524,-17.3964 3.9899,-15.2558 26.7282,-11.3309 -16.8319,-9.3335 -17.8474,-14.9188 20.6593,-11.1384 -26.9736,-7.2248 -51.8498,-14.5161 -10.6404,-23.9041 -9.8009,-2.8971 -41.3085,5.6491 -7.6179,-33.8277 -24.4735,9.2534 -46.8518,12.1658 -54.7601,-21.8492 -20.033,17.4862 -40.4159,29.0697 -39.9359,-5.94 -18.1891,36.7127 -14.0169,12.7169 -20.1205,2.3189 -1.7756,10.6697 -29.9576,28.7812 -52.157,-0.026 5.1719,16.6095 2.4105,43.4139 -23.744,0.098 -0.2684,7.6878 11.1918,49.0862 -59.6067,1.2358 9.6319,33.3052 -13.9602,14.4966 -32.4759,3.6511 9.6324,20.7675 -3.8884,22.8261 -33.90099,11.5585 23.46229,19.2648 -0.22207,14.4918 -15.04609,14.2363 z"
+       d="m 957.57652,2140.051 c 26.48856,10.0096 53.49138,19.8838 7.81359,48.9003 43.95619,-8.4642 17.39617,7.6285 6.87576,18.1355 78.28043,-22.5411 28.35153,11.5149 9.59201,31.8115 17.9357,-8.8961 54.95312,-40.0953 35.05152,-0.4132 25.992,-37.537 36.0962,-29.7538 30.3775,-2.8915 9.586,-15.8194 18.2942,-29.935 11.4457,-1.6592 8.7223,-16.0436 17.6855,-33.3891 30.1978,-8.7827 5.6824,-11.2635 12.6162,-13.4432 22.5169,3.2448 14.1496,-20.0366 17.0597,-13.0789 23.1203,-0.442 4.8949,-21.2467 34.8969,-22.4104 43.3595,-3.4315 0.089,-25.4949 24.1166,-13.8256 58.7348,0.7119 -15.4744,-13.2225 9.1672,-20.0245 35.9008,-10.2667 -16.9165,-17.3964 4.1531,-15.2558 27.8207,-11.3309 -17.5198,-9.3335 -18.5769,-14.9188 21.5037,-11.1384 -28.076,-7.2248 -53.969,-14.5161 -11.0754,-23.9041 -10.2014,-2.8971 -42.9967,5.6491 -7.929,-33.8277 -25.4739,9.2534 -48.7667,12.1658 -56.9984,-21.8492 -20.8518,17.4862 -42.0677,29.0697 -41.5681,-5.94 -18.9325,36.7127 -14.5898,12.7169 -20.9429,2.3189 -1.848,10.6697 -31.182,28.7812 -54.2886,-0.026 5.3833,16.6095 2.5089,43.4139 -24.7144,0.098 -0.2794,7.6878 11.6491,49.0862 -62.043,1.2358 10.0257,33.3052 -14.5308,14.4966 -33.8031,3.6511 10.026,20.7675 -4.0474,22.8261 -35.2866,11.5585 24.42118,19.2648 -0.2312,14.4918 -15.66108,14.2363 z"
        id="path3549"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 834.01101,1760.1401 c -31.72549,-21.6006 -34.15669,-39.6087 -37.06983,-52.4078 3.11714,-1.8969 8.05908,-6.4842 8.05908,-6.4842 0,0 -7.70161,-24.6325 -8.00481,-34.9819 -0.3032,-10.3492 10.46694,-10.934 10.46694,-10.934 0,0 15.98622,47.5057 21.96595,56.683 -8.74314,4.7938 -12.44327,8.45 -16.24448,8.6563 -0.40613,7.7964 9.80434,31.4289 20.82715,39.4686 z"
+       d="m 842.43411,1760.1401 c -38.93424,-21.6006 -41.91786,-39.6087 -45.49293,-52.4078 3.82542,-1.8969 9.89028,-6.4842 9.89028,-6.4842 0,0 -9.45158,-24.6325 -9.82368,-34.9819 -0.37209,-10.3492 12.84526,-10.934 12.84526,-10.934 0,0 19.61865,47.5057 26.95712,56.683 -10.72978,4.7938 -15.27067,8.45 -19.9356,8.6563 -0.49841,7.7964 12.03211,31.4289 25.55955,39.4686 z"
        id="path4456-8"
        inkscape:connector-curvature="0" />
     <path
@@ -1393,15 +1501,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="558.61505"
-       height="195.11687"
-       x="204.65326"
-       y="154.66127"
-       ry="40"
+       width="649.58801"
+       height="142.54323"
+       x="160.09506"
+       y="139.80855"
+       ry="28.150677"
        rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 165.63052,127.12294 c -2.26649,25.82279 8.71397,36.08371 14.2253,40.40328 2.26971,-1.03908 11.47004,-18.18406 11.47004,-18.18406 0,0 12.95776,37.68521 23.50024,40.17102 6.21214,1.46471 19.02856,-17.33036 19.02856,-17.33036 -2.13689,2.99903 -40.07366,-34.078 -39.73148,-43.84826 -6.26809,3.57883 -13.69909,17.63759 -15.46656,19.53988 -7.08112,-0.99516 -14.19625,-12.57886 -13.0261,-20.7515 z"
+       d="m 137.78164,114.1268 c -2.26649,25.82279 8.71397,36.08371 14.2253,40.40328 2.26971,-1.03908 11.47004,-18.18406 11.47004,-18.18406 0,0 12.95776,37.68521 23.50024,40.17102 6.21214,1.46471 19.02856,-17.33036 19.02856,-17.33036 -2.13689,2.99903 -40.07366,-34.078 -39.73148,-43.84826 -6.26809,3.57883 -13.69909,17.63759 -15.46656,19.53988 -7.08112,-0.99516 -14.19625,-12.57886 -13.0261,-20.7515 z"
        id="path4456"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccc"
@@ -1430,10 +1538,10 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-1"
        width="629.32043"
-       height="251.67365"
+       height="184.17365"
        x="1703.0493"
        y="2333.5691"
-       ry="40"
+       ry="29.27182"
        rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -1450,41 +1558,36 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="485.89062"
-       y="210.75658"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="480.32086"
+       y="199.61703"
        id="text4246-2-3-1-3-9-9"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="485.89062"
-         y="210.75658"
-         id="tspan4449">Eine sehr ansehnliche</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="480.32086"
+         y="199.61703"
+         id="tspan4454">洋甘菊得到的分数很不错！</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="485.89062"
-         y="267.00659"
-         id="tspan3667">Punktzahl für Kamille!</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="485.89062"
-         y="323.25659"
-         id="tspan3669">Als nächste – Shichimi</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="480.32086"
+         y="255.86703"
+         id="tspan3647">接下来轮到七味粉！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-6);"
        x="1276.0023"
        y="286.89603"
        id="text4246-3-8-2"
        transform="matrix(1.6804587,0,0,1.6667549,-1664.1309,-160.33991)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:17.77999878px;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:17.77999878px;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="1304.9219"
          y="286.89603"
          id="tspan4252-5-6-8"> </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:8.9627538px;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:8.9627538px;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="1280.4836"
          y="407.71576"
          id="tspan5535-8-9">5861</tspan></text>
@@ -1493,10 +1596,10 @@
        y="0"
        xlink:href="#text4580-1-7-3-6"
        id="use4300"
-       transform="matrix(0.63079792,0,0,0.6472822,890.49364,520.64909)"
+       transform="matrix(0.63079792,0,0,0.6472822,806.73729,518.69465)"
        width="100%"
        height="100%"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:7.88592052;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="stroke:#ffffff;stroke-opacity:1;stroke-width:7.8859206;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1" />
     <use
        x="0"
        y="0"
@@ -1539,148 +1642,143 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none"
        x="1079.8777"
        y="1322.106"
-       id="text4246-2-3-1-3-9-9-3"><tspan
+       id="text4246-2-3-1-3-9-9-3"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#8f5902;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#8f5902;fill-opacity:1"
          x="1079.8777"
          y="1322.106"
-         id="tspan4341-5">LUX…</tspan></text>
+         id="tspan4341-5">万…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0"
-       transform="matrix(0.98074575,-0.82465511,0.10674066,1.2040962,1130.4954,-856.60582)"
+       transform="matrix(0.98074575,-0.82465511,0.10674066,1.2040962,1127.9954,-786.60582)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2"
          x="787.65729"
          y="1584.5073"
-         style="font-size:93.14950562px;line-height:1.25;fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0">Fii<tspan
-   style="font-size:70.77825928px;fill:url(#linearGradient4294);fill-opacity:1"
-   id="tspan4630">iiiiisss</tspan><tspan
-   style="font-size:55.92811584px;fill:url(#linearGradient4294);fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.14950562px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0">呜嗡嗡<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.92811584px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:url(#linearGradient4294);fill-opacity:1"
    id="tspan4638" /></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#8f5902;fill-opacity:1;stroke:none"
        x="1745.0958"
        y="1183.5892"
        id="text4246-2-3-1-3-9-9-3-2"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#8f5902;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.83346558px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#8f5902;fill-opacity:1"
          x="1745.0958"
          y="1183.5892"
-         id="tspan4341-5-7">MAXIMA!</tspan></text>
+         id="tspan4341-5-7">光之源！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="819.75671"
        y="1673.9493"
        id="text4246-2-3-1-3-9-9-6"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          x="819.75671"
          y="1673.9493"
-         id="tspan4341-1">Aah!!</tspan></text>
+         id="tspan4341-1">啊！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="257.68674"
        y="2020.4244"
        id="text4246-2-3-1-3-9-9-6-2"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          x="257.68674"
          y="2020.4244"
-         id="tspan4341-1-3">Aua!!</tspan></text>
+         id="tspan4341-1-3">哎呦！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1142.2045"
        y="2182.5535"
        id="text4246-2-3-1-3-9-9-6-9"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          x="1142.2045"
          y="2182.5535"
-         id="tspan4341-1-2">Meine Augen!!</tspan></text>
+         id="tspan4341-1-2">我的眼睛啊!!!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1232.7345"
-       y="2532.9819"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1212.7345"
+       y="2544.9819"
        id="text4246-2-3-1-3-9-9-7"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1232.7345"
-         y="2532.9819"
-         id="tspan4881">Carrot …</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="1212.7345"
+         y="2544.9819"
+         id="tspan4621">萝卜头…</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1232.7345"
-         y="2589.2319"
-         id="tspan3713">gib ihr trotzdem einen</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="1212.7345"
+         y="2601.2319"
+         id="tspan3659">给她按绿色按钮吧，</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1240.6447"
-         y="2645.4819"
-         id="tspan3715">grünen Daumen, sie ist </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="1232.7345"
-         y="2701.7319"
-         id="tspan3717">schließlich unsere Freundin.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="1212.7345"
+         y="2657.4819"
+         id="tspan3661">毕竟是咱们的朋友…</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.82718372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-5)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.82718372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-3"
-       transform="matrix(0.4834259,-0.25133535,-0.08924755,0.66599199,986.55613,2279.2739)"><tspan
+       transform="matrix(0.4834259,-0.25133535,-0.08924755,0.66599199,986.55613,2279.2739)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-0"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.82718372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Tap</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.82718372;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">咔嗒</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-6-3-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-6-3-3)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-9-2-5-6"
-       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,-158.57776,1939.1304)"
+       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,-182.06364,1943.4006)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-0-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">呜~~！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6-2)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-9-4-7-0"
-       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,-196.25442,1849.6598)"
+       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,-229.99635,1866.065)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4582-8-5-6-1-3-5-6-9"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3649">欧~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-9-45"
@@ -1690,117 +1788,112 @@
          id="tspan4582-8-5-6-1-3-2"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">呜~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-9-4-7"
-       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1067.9492,1736.7404)"
+       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1053.0036,1766.065)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3-5-6"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuu!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">切~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="2022.6879"
        y="2385.7378"
        id="text4246-2-3-1-3-9-9-9"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          x="2022.6879"
          y="2385.7378"
-         id="tspan4529">Ah, offenbar hat sich das</tspan><tspan
+         id="tspan4529">啊，看来观众们并不太</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="2030.598"
-         y="2441.9878"
-         id="tspan3728">Publikum von dieser </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
-         x="2030.598"
-         y="2498.2378"
-         id="tspan3730">„strahlenden“ Vorführung </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;line-height:1.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
          x="2022.6879"
-         y="2554.4878"
-         id="tspan3732">nicht blenden lassen</tspan></text>
+         y="2441.9878"
+         id="tspan3788">欣赏这一“耀眼”的魔法！</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="2022.6879"
+         y="2498.2378"
+         id="tspan3786">接下来有请螺旋藻！</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-3);"
        x="1276.0023"
        y="286.89603"
        id="text4246-3-8"
        transform="matrix(1.6804587,0,0,1.6667549,-168.49262,2049.5396)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:17.77999878px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:17.77999878px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="1304.9219"
          y="286.89603"
          id="tspan4252-5-6"> </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:8.96275425px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:8.96275425px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          x="1280.4836"
          y="407.71576"
          id="tspan5535-8">-42</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.26322591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5-5)"
        x="787.65729"
        y="1584.5073"
-       id="text4580-1-7-3-6-9"
-       transform="matrix(0.71367437,-0.24008968,-0.13175481,0.92241152,1291.2405,1981.9638)"
+       id="text4580-1-7-3-6-9-45-4"
+       transform="matrix(0.64838801,-0.24791768,-0.11970199,0.95248627,1338.2756,1888.6459)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4582-8-5-6-1-3"
+         id="tspan4582-8-5-6-1-3-2-9"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.26322591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">呜~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-1-6-6)"
        x="787.65729"
        y="1584.5073"
-       id="text4580-1-7-3-6-9-4"
-       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1340.2437,1949.6409)"
+       id="text4580-1-7-3-6-9-4-7-2"
+       transform="matrix(0.7453695,-0.25536587,-0.1376062,0.98110181,1326.9833,1942.2994)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4582-8-5-6-1-3-5"
+         id="tspan4582-8-5-6-1-3-5-6-4"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19853473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">切~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5-3)"
        x="787.65729"
        y="1584.5073"
-       id="text4580-1-7-3-6-9-2"
-       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,1946.3737,2072.7756)"
+       id="text4580-1-7-3-6-9-45-8"
+       transform="matrix(0.64838801,-0.24791768,-0.11970199,0.95248627,1933.2756,1946.1459)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4582-8-5-6-1-3-0"
+         id="tspan4582-8-5-6-1-3-2-3"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">呜~~ !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-6-3)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1-7-5-2)"
        x="787.65729"
        y="1584.5073"
-       id="text4580-1-7-3-6-9-2-5"
-       transform="matrix(0.59995716,-0.22362522,-0.11076094,0.85915594,1358.9363,2205.0256)"
+       id="text4580-1-7-3-6-9-45-2"
+       transform="matrix(0.64838801,-0.24791768,-0.11970199,0.95248627,1338.2756,2083.6459)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
-         id="tspan4582-8-5-6-1-3-0-6"
+         id="tspan4582-8-5-6-1-3-2-8"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42756975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Buuh!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.30420721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">呜~~ !</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1809,37 +1902,38 @@
      style="display:inline">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m -586.54425,1077.7247 0,189.0351 203.83,0 0,-90.9805 10,0 0,15.6308 30.9825,-26.9824 -30.9825,-26.9804 0,16.6171 -10,0 0,-76.3397 -203.83,0 z"
+       d="m -453.76586,1080.7442 0,189.0351 203.83,0 0,-90.9805 10,0 0,15.6308 30.9825,-26.9824 -30.9825,-26.9804 0,16.6171 -10,0 0,-76.3397 -203.83,0 z"
        id="rect4191-6"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4212-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-356.85385,69.481148)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(-224.07546,72.500608)"><flowRegion
          id="flowRegion4214-5"><rect
            id="rect4216-3"
            width="291.95547"
            height="247.52747"
            x="-275.14545"
-           y="1061.6674" /></flowRegion><flowPara
+           y="1061.6674"
+           style="-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
          id="flowPara4218-5"
-         style="font-size:25.3241539px;line-height:1.25">Edit this one,</flowPara><flowPara
+         style="font-size:25.3241539px;line-height:1.25;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Edit this one,</flowPara><flowPara
          id="flowPara4562"
-         style="font-size:25.3241539px;line-height:1.25">all others</flowPara><flowPara
+         style="font-size:25.3241539px;line-height:1.25;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">all others</flowPara><flowPara
          id="flowPara4564"
-         style="font-size:25.3241539px;line-height:1.25">are linked</flowPara></flowRoot>    <text
+         style="font-size:25.3241539px;line-height:1.25;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">are linked</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.86525804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.86525804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1)"
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6"
-       transform="matrix(0.96380061,-0.56217228,-0.1779318,1.4896521,-802.36995,-689.87087)"
+       transform="matrix(0.96380061,-0.56217228,-0.1779318,1.4896521,-669.59156,-686.85141)"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.86525804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Klatsch</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.86525804;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">啪</tspan></text>
   </g>
 </svg>
