@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P02.svg">
@@ -95,16 +95,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25406794"
-     inkscape:cx="333.26235"
-     inkscape:cy="1751.5"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.51102138"
+     inkscape:cx="1739.7204"
+     inkscape:cy="783.64372"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:snap-text-baseline="true" />
   <g
      inkscape:groupmode="layer"
@@ -112,13 +112,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep22_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep22_The-Voting-System/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -128,7 +128,7 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="456.58945"
+       width="494.02512"
        height="261.05905"
        x="1366.5333"
        y="435.66666"
@@ -158,18 +158,18 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0-6"
-       width="381.07178"
+       width="418.50748"
        height="198.51482"
-       x="1958.4304"
+       x="1944.8175"
        y="1517.6171"
        ry="40"
        rx="40" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-7"
-       width="605.9566"
+       width="622.97284"
        height="265.11411"
-       x="917.35803"
+       x="900.34186"
        y="2044.0802"
        ry="40"
        rx="40" />
@@ -183,9 +183,9 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3"
-       width="453.44708"
+       width="410.90652"
        height="374.23227"
-       x="376.71887"
+       x="405.64645"
        y="1942.4945"
        ry="40"
        rx="40" />
@@ -196,19 +196,19 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
-       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 705.38428,2424.3932 c -54.09593,5.607 -64.7378,23.2704 -74.00168,35.1834 3.71843,3.6849 8.98597,11.192 8.98597,11.192 0,0 -25.65759,15.1626 -30.20395,25.9054 -4.54642,10.743 7.95972,35.8726 7.95972,35.8726 0,0 49.34266,-53.4767 61.56725,-59.9145 -10.63895,-9.7802 -14.49488,-15.6343 -19.86627,-17.9076 2.51456,-8.4359 26.55128,-27.8196 45.55896,-30.3313 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 656.03724,2419.2884 c -54.09593,5.607 -64.7378,23.2704 -74.00168,35.1834 3.71843,3.6849 8.98597,11.192 8.98597,11.192 0,0 -47.77868,27.074 -52.32504,37.8168 -4.54642,10.743 9.66135,25.6628 9.66135,25.6628 0,0 69.76212,-55.1783 81.98671,-61.6161 -10.63895,-9.7802 -14.49488,-15.6343 -19.86627,-17.9076 2.51456,-8.4359 26.55128,-27.8196 45.55896,-30.3313 z"
        id="path4456-6-0"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-28.519271"
        inkscape:transform-center-y="49.4025"
        sodipodi:nodetypes="cccscccc" />
     <rect
-       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3-0-1"
-       width="486.49899"
+       width="396.31302"
        height="311.2926"
-       x="133.30595"
+       x="167.33839"
        y="2428.8579"
        ry="33.72908"
        rx="42.086128" />
@@ -233,37 +233,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1604.2745"
-       y="493.19434"
-       id="text4246-2-3-1-3-9-9-6-2"
-       sodipodi:linespacing="0%"><tspan
+       x="1614.4843"
+       y="494.89597"
+       id="text4246-2-3-1-3-9-9-6-2"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1604.2745"
-         y="493.19434"
+         x="1614.4843"
+         y="494.89597"
          id="tspan4273">素晴らしい</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1604.2745"
-         y="549.44434"
+         x="1614.4843"
+         y="551.14594"
          id="tspan4222">エンジニアのおかげで</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1604.2745"
-         y="605.69434"
+         x="1614.4843"
+         y="607.39594"
          id="tspan4224">皆さん全員が</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="1604.2745"
-         y="661.94434"
+         x="1614.4843"
+         y="663.64594"
          id="tspan5012">参加できます!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="608.28955"
        y="2007.1349"
-       id="text4246-2-3-1-3-9-9-6"
-       sodipodi:linespacing="0%"><tspan
+       id="text4246-2-3-1-3-9-9-6"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="608.28955"
@@ -297,28 +295,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1220.4257"
-       y="2104.7434"
-       id="text4246-2-3-1-3-9-9-6-5"
-       sodipodi:linespacing="0%"><tspan
+       x="1213.6191"
+       y="2106.4451"
+       id="text4246-2-3-1-3-9-9-6-5"><tspan
          sodipodi:role="line"
-         x="1220.4257"
-         y="2104.7434"
+         x="1213.6191"
+         y="2106.4451"
          style="font-size:45px;line-height:1.25"
          id="tspan5065">緑のボタンで</tspan><tspan
          sodipodi:role="line"
-         x="1220.4257"
-         y="2160.9934"
+         x="1213.6191"
+         y="2162.6951"
          style="font-size:45px;line-height:1.25"
          id="tspan4263">ポイントを追加します</tspan><tspan
          sodipodi:role="line"
-         x="1220.4257"
-         y="2217.2434"
+         x="1213.6191"
+         y="2218.9451"
          style="font-size:45px;line-height:1.25"
          id="tspan4265">赤いボタンは減点!</tspan><tspan
          sodipodi:role="line"
-         x="1220.4257"
-         y="2273.4934"
+         x="1213.6191"
+         y="2275.1951"
          style="font-size:45px;line-height:1.25"
          id="tspan4267">勝者を決めるのはあなたです!</tspan></text>
     <text
@@ -326,8 +323,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="2106.1616"
        y="1405.9927"
-       id="text4246-2-3-1-3-9-9-6-9-3"
-       sodipodi:linespacing="0%"><tspan
+       id="text4246-2-3-1-3-9-9-6-9-3"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2106.1616"
@@ -340,38 +336,36 @@
          id="tspan4191">疑問が出ました</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2106.1616"
+         x="2112.2261"
          y="1518.4927"
-         id="tspan4261" /></text>
+         id="tspan4261"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="2146.9834"
-       y="1579.5059"
-       id="text4246-2-3-1-3-9-9-6-9"
-       sodipodi:linespacing="0%"><tspan
+       x="2157.1931"
+       y="1574.401"
+       id="text4246-2-3-1-3-9-9-6-9"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.9834"
-         y="1579.5059"
+         x="2157.1931"
+         y="1574.401"
          id="tspan5083">ご心配なく</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.9834"
-         y="1635.7559"
+         x="2157.1931"
+         y="1630.651"
          id="tspan4248">それについても</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2146.9834"
-         y="1692.0059"
+         x="2157.1931"
+         y="1686.901"
          id="tspan4252">準備してあります!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="371.61154"
        y="2486.3821"
-       id="text4246-2-3-1-3-9-9-6-9-8"
-       sodipodi:linespacing="0%"><tspan
+       id="text4246-2-3-1-3-9-9-6-9-8"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="371.61154"
@@ -402,8 +396,7 @@
        y="2751.4998"
        x="1339.1047"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"
-       sodipodi:linespacing="0%"><tspan
+       xml:space="preserve"><tspan
          y="2751.4998"
          x="1339.1047"
          id="tspan4260"

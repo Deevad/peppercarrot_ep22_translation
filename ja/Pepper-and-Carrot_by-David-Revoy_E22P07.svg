@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P07.svg">
@@ -1165,30 +1165,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1857"
-     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.33720864"
-     inkscape:cx="908.67512"
-     inkscape:cy="2717.7837"
-     inkscape:window-x="55"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.51285219"
+     inkscape:cx="1533.6991"
+     inkscape:cy="2679.9936"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep22_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep22_The-Voting-System/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1222,7 +1222,7 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-1"
-       width="586.97937"
+       width="573.3302"
        height="197.43452"
        x="1774.9883"
        y="140.4917"
@@ -1320,19 +1320,20 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.89125061px;line-height:125%;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4183)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4183)"
        x="517.27045"
        y="228.40021"
-       id="text4246-2-3-1-3-9-9-3-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-2-3-1-3-9-9-3-2"><tspan
          sodipodi:role="line"
          id="tspan4390"
          x="523.88184"
-         y="228.40021">RELEASUS </tspan><tspan
+         y="228.40021"
+         style="font-size:52.89125061px;line-height:1.25">RELEASUS </tspan><tspan
          sodipodi:role="line"
          id="tspan4392"
          x="517.27045"
-         y="294.51428">KRAKENIS!</tspan></text>
+         y="294.51428"
+         style="font-size:52.89125061px;line-height:1.25">KRAKENIS!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4652);fill-opacity:1;stroke:none;stroke-width:0.76397806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter4375-4-1-1-1-9-5-8-8-5-7)"
@@ -1341,8 +1342,7 @@
        id="text4580-6-0-0-0-18"
        transform="matrix(0.53701218,-0.18511943,-0.12960973,0.84567385,69.581212,-730.83161)"
        inkscape:transform-center-x="-63.131284"
-       inkscape:transform-center-y="-82.119963"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:transform-center-y="-82.119963"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2-79"
          x="787.65729"
@@ -1358,8 +1358,7 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0"
-       transform="matrix(0.9402645,-0.62735016,-0.22693607,1.4682625,884.30284,-1068.9221)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(0.9402645,-0.62735016,-0.22693607,1.4682625,884.30284,-1068.9221)"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2"
          x="787.65729"
@@ -1374,8 +1373,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="2060.9438"
        y="199.65723"
-       id="text4246-2-3-1-3-9-9-9"
-       sodipodi:linespacing="0%"><tspan
+       id="text4246-2-3-1-3-9-9-9"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2060.9438"
@@ -1397,8 +1395,7 @@
        x="1276.0023"
        y="286.89603"
        id="text4246-3-8"
-       transform="matrix(1.6804587,0,0,1.6667549,-101.48776,-116.11499)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(1.6804587,0,0,1.6667549,-101.48776,-116.11499)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:7.17020321px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.312"
@@ -1407,7 +1404,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:8.96275425px;word-spacing:0px;fill:url(#linearGradient4203);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1280.4836"
-         y="407.71576"
+         y="407.63681"
          id="tspan5535-8"
          dx="0">6225</tspan></text>
     <text
@@ -1416,8 +1413,7 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6-1"
-       transform="matrix(0.56312247,-0.2879856,-0.10396071,0.76310836,1901.0722,85.212845)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(0.56312247,-0.2879856,-0.10396071,0.76310836,1901.0722,85.212845)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1-3"
          x="787.65729"
@@ -1485,8 +1481,7 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-6-0-0-0-1"
-       transform="matrix(1.0148884,0.0915085,0.12705357,1.1473536,-416.95443,377.60437)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(1.0148884,0.0915085,0.12705357,1.1473536,-416.95443,377.60437)"><tspan
          sodipodi:role="line"
          id="tspan4582-1-1-0-2-9"
          x="787.65729"
@@ -1501,8 +1496,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="2008.3097"
        y="2210.3201"
-       id="text4246-2-3-1-3-9-9-9-1"
-       sodipodi:linespacing="0%"><tspan
+       id="text4246-2-3-1-3-9-9-9-1"><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2008.3097"
@@ -1510,7 +1504,7 @@
          id="tspan4860">スケルトンはちょっと</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
-         x="2014.5499"
+         x="2014.3741"
          y="2266.5701"
          id="tspan4388">流行遅れみたいですね… </tspan><tspan
          sodipodi:role="line"
@@ -1524,17 +1518,16 @@
        x="1276.0023"
        y="286.89603"
        id="text4246-3-8-0"
-       transform="matrix(1.6804587,0,0,1.6667549,-150.21136,1822.619)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(1.6804587,0,0,1.6667549,-150.21136,1822.619)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:7.17020321px;fill:url(#linearGradient4203-2);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.312"
          y="286.89603"
          id="tspan4252-5-6-2"> </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:8.9627538px;fill:url(#linearGradient4203-2);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1279.5874"
-         y="407.71576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.25513458px;line-height:1.25;font-family:Combat;-inkscape-font-specification:Combat;letter-spacing:8.96275425px;fill:url(#linearGradient4203-2);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1280.4836"
+         y="407.63681"
          id="tspan5535-8-7">2023</tspan></text>
   </g>
   <g
@@ -1568,8 +1561,7 @@
        x="787.65729"
        y="1584.5073"
        id="text4580-1-7-3-6"
-       transform="matrix(0.96380061,-0.56217228,-0.1779318,1.4896521,2059.8648,-790.00354)"
-       sodipodi:linespacing="0%"><tspan
+       transform="matrix(0.96380061,-0.56217228,-0.1779318,1.4896521,2059.8648,-790.00354)"><tspan
          sodipodi:role="line"
          id="tspan4582-8-5-6-1"
          x="787.65729"
