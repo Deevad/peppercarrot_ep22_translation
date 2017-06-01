@@ -1171,11 +1171,11 @@
      showgrid="false"
      inkscape:zoom="0.33720864"
      inkscape:cx="1194.3593"
-     inkscape:cy="1650.1954"
+     inkscape:cy="3073.6465"
      inkscape:window-x="81"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1184,11 +1184,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep22_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1382,7 +1382,7 @@
          style="font-size:45px;line-height:1.25"
          x="2060.9438"
          y="199.65723"
-         id="tspan4887">Magnificol! Fantastico!</tspan><tspan
+         id="tspan4887">Magnifico! Fantastico!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2060.9438"
