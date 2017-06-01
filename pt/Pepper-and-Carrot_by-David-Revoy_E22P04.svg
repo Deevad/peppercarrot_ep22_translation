@@ -316,7 +316,7 @@
      showgrid="false"
      inkscape:zoom="0.44093638"
      inkscape:cx="1101.9311"
-     inkscape:cy="733.54451"
+     inkscape:cy="1187.1247"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -329,11 +329,11 @@
     <image
        sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep22_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -729,7 +729,7 @@
          style="font-size:56.26209641px;line-height:1.25;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="3324.5437"
          y="2866.6912"
-         id="tspan4579-4">COMEÇE!!</tspan></text>
+         id="tspan4579-4">COMECE!!</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -922,7 +922,7 @@
      showgrid="false"
      inkscape:zoom="0.41800592"
      inkscape:cx="1054.2893"
-     inkscape:cy="741.65669"
+     inkscape:cy="2942.5825"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -935,11 +935,11 @@
     <image
        sodipodi:absref="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P08.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1033,13 +1033,13 @@
          y="246.38478"
          id="tspan3576">schneide ich schlechter als </tspan><tspan
          sodipodi:role="line"
-         x="490.00366"
+         x="482.09351"
          y="302.63477"
-         id="tspan3578">Spirulina ab! Höchste Zeit, </tspan><tspan
+         id="tspan3545">Spirulina ab! Ich muss</tspan><tspan
          sodipodi:role="line"
          x="490.00366"
          y="358.88477"
-         id="tspan3580">alles zu geben! </tspan></text>
+         id="tspan3549">alles geben! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
