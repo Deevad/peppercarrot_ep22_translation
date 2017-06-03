@@ -1320,13 +1320,13 @@
      inkscape:window-height="1009"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.66237016"
-     inkscape:cx="1814.6491"
-     inkscape:cy="395.43966"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1252.2435"
+     inkscape:cy="794.73158"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1335,11 +1335,11 @@
     <image
        sodipodi:absref="/home/wsonke/Git/peppercarrot_ep22_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1394,15 +1394,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="558.61505"
+       width="593.9704"
        height="195.11687"
-       x="204.65326"
+       x="186.9756"
        y="154.66127"
        ry="40"
        rx="40" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 165.63052,127.12294 c -2.26649,25.82279 8.71397,36.08371 14.2253,40.40328 2.26971,-1.03908 11.47004,-18.18406 11.47004,-18.18406 0,0 12.95776,37.68521 23.50024,40.17102 6.21214,1.46471 19.02856,-17.33036 19.02856,-17.33036 -2.13689,2.99903 -40.07366,-34.078 -39.73148,-43.84826 -6.26809,3.57883 -13.69909,17.63759 -15.46656,19.53988 -7.08112,-0.99516 -14.19625,-12.57886 -13.0261,-20.7515 z"
+       d="m 161.28026,132.44205 c -2.26649,25.82279 8.71397,36.08371 14.2253,40.40328 2.26971,-1.03908 11.47004,-18.18406 11.47004,-18.18406 0,0 12.95776,37.68521 23.50024,40.17102 6.21214,1.46471 19.02856,-17.33036 19.02856,-17.33036 -2.13689,2.99903 -40.07366,-34.078 -39.73148,-43.84826 -6.26809,3.57883 -13.69909,17.63759 -15.46656,19.53988 -7.08112,-0.99516 -14.19625,-12.57886 -13.0261,-20.7515 z"
        id="path4456"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccc"
@@ -1469,7 +1469,7 @@
          style="font-size:45px;line-height:1.25"
          x="485.89062"
          y="323.25659"
-         id="tspan4449">De beurt is aan Shichimi!</tspan></text>
+         id="tspan4449">Dan is het nu aan Shichimi!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-6)"
@@ -1708,7 +1708,7 @@
          style="font-size:45px;line-height:1.25"
          x="2022.6879"
          y="2441.9878"
-         id="tspan4571">het publiek dit ‘briljante’</tspan><tspan
+         id="tspan4571">het publiek dit ‘schitterende’</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="2022.6879"
