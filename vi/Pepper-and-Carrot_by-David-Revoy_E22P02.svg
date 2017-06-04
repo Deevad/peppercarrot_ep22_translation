@@ -100,7 +100,7 @@
      showgrid="false"
      inkscape:zoom="0.4470797"
      inkscape:cx="1396.5143"
-     inkscape:cy="535.45582"
+     inkscape:cy="137.09652"
      inkscape:window-x="0"
      inkscape:window-y="13"
      inkscape:window-maximized="0"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep22_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -315,7 +315,7 @@
          x="1220.4257"
          y="2273.4934"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
-         id="tspan3106">quyết định ai được thắng!</tspan></text>
+         id="tspan3106">quyết định ai thắng!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -398,6 +398,6 @@
          x="1339.1047"
          id="tspan4260"
          sodipodi:role="line"
-         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'">Ủi!</tspan></text>
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'">Úú!</tspan></text>
   </g>
 </svg>
