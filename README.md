@@ -15,6 +15,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Dutch: Willem Sonke, corrections: Midgard
+
 * English: Alex Gryson
 
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
