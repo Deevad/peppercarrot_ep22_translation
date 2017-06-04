@@ -1321,11 +1321,11 @@
      showgrid="false"
      inkscape:zoom="0.32747509"
      inkscape:cx="903.496"
-     inkscape:cy="2376.3741"
+     inkscape:cy="745.34681"
      inkscape:window-x="-5"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1334,11 +1334,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep22_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1469,7 +1469,7 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:middle;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="485.89062"
          y="318.75659"
-         id="tspan3322">nhỏ Thất Vị!</tspan></text>
+         id="tspan3322">nhỏ Thất Vị đấu!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.70200004;fill:url(#linearGradient4203-3);fill-opacity:1;stroke:#ffffff;stroke-width:2.68882608;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-8-8-8-6)"
