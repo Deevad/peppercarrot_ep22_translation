@@ -98,9 +98,9 @@
      inkscape:window-height="921"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3229505"
-     inkscape:cx="1424.1139"
-     inkscape:cy="678.37379"
+     inkscape:zoom="0.49675241"
+     inkscape:cx="470.42326"
+     inkscape:cy="506.33112"
      inkscape:window-x="106"
      inkscape:window-y="55"
      inkscape:window-maximized="0"
@@ -114,11 +114,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep22_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -126,14 +126,14 @@
      inkscape:label="speechbubbles"
      style="display:inline">
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61015368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="514.46503"
+       width="518.49115"
        height="261.05905"
        x="1342.4185"
        y="430.84369"
        ry="40"
-       rx="40" />
+       rx="40.313034" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1287.9562,804.69125 c -2.3726,-48.11045 10.1998,-102.00947 18.1937,-112.95934 3.1988,0.86242 18.9006,18.62975 18.9006,18.62975 0,0 73.4226,-141.05933 116.098,-161.78266 9.5804,-4.65225 36.6834,-14.11398 2.5863,22.28059 -34.0971,36.39457 -113.8187,149.01883 -113.6551,167.47568 -8.8102,-3.73425 -16.9173,-15.12982 -19.3721,-17.88533 -10.1199,5.38582 -24.1474,69.23793 -22.7514,84.24131 z"
@@ -181,14 +181,14 @@
        inkscape:transform-center-x="19.942486"
        inkscape:transform-center-y="41.5879" />
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.6398201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.68038535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7-3"
-       width="455.01334"
+       width="469.10486"
        height="374.23227"
-       x="375.15262"
+       x="365.08725"
        y="1942.4945"
        ry="40"
-       rx="41.234615" />
+       rx="42.511631" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 613.19842,2000.0869 c 2.64799,-3.1047 -30.76851,-40.0426 -30.76851,-40.0426 0,0 7.3568,-25.419 6.83945,-29.9059 -7.10705,-9.4953 -31.75268,-23.7882 -31.75268,-23.7882 l 20.47161,-49.6306 -1.60453,42.2469 38.75844,22.0522 -5.21058,32.4539 33.85028,23.5924 z"
@@ -249,12 +249,12 @@
          style="font-size:45px;line-height:1.25"
          x="1601.863"
          y="600.8714"
-         id="tspan4273">¡Ahora todos podran</tspan><tspan
+         id="tspan4548">¡Todos podran participar</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1601.863"
          y="657.1214"
-         id="tspan4548">participar votando !</tspan></text>
+         id="tspan4543">con la votación !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -275,12 +275,12 @@
          style="font-size:45px;line-height:1.25"
          x="601.47772"
          y="2120.77"
-         id="tspan4585">admirar la tecnología</tspan><tspan
+         id="tspan4585">admirar tal tecnología</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="601.47772"
          y="2177.02"
-         id="tspan4587">de éstas miniaturas</tspan><tspan
+         id="tspan4587">con éstas miniaturas</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="601.47772"
@@ -353,7 +353,7 @@
          style="font-size:45px;line-height:1.25"
          x="2149.2539"
          y="1682.9235"
-         id="tspan4623">ha sido calcualdo !</tspan></text>
+         id="tspan4623">ha sido calculado !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
