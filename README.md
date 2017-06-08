@@ -29,6 +29,8 @@ License
 
 * Mexicano: Quiralta
 
+* Polish: Sölve Svartskogen
+
 * Portuguese: Alexandre E. Almeida
 
 * Russian: gleki, Denis "uncle Night" Prisukhin
