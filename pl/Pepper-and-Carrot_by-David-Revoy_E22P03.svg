@@ -513,9 +513,9 @@
      inkscape:window-height="1027"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45406944"
-     inkscape:cx="1247.6527"
-     inkscape:cy="1516.2319"
+     inkscape:zoom="0.32107558"
+     inkscape:cx="1014.1203"
+     inkscape:cy="2290.2448"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -526,13 +526,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/mnt/forge/Tymczasowe/PC/peppercarrot_ep22_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep22_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -618,7 +618,7 @@
          style="font-size:45px;line-height:1.25"
          x="1955.4039"
          y="247.42249"
-         id="tspan3485">wyniki uczestników</tspan><tspan
+         id="tspan3485">punktacja uczestników</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;line-height:1.25"
          x="1955.4039"
