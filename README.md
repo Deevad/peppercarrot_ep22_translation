@@ -19,6 +19,8 @@ License
 
 * English: Alex Gryson
 
+* Farsi: Aslan Zamanloo
+
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 
 * Indonesian: Bonaventura Aditya Perdana
