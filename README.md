@@ -21,6 +21,8 @@ License
 
 * Farsi: Aslan Zamanloo
 
+* Finnish: Kari Lehto
+
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 
 * Indonesian: Bonaventura Aditya Perdana

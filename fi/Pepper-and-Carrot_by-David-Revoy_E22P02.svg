@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P02.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.58644979"
+     inkscape:cx="1087.6272"
+     inkscape:cy="2732.6709"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-text-baseline="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Users\Kari\Documents\Pepper and Carrot\Episode 22\fi\..\peppercarrot_ep22_translation-master\en\.\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       xlink:href="..\peppercarrot_ep22_translation-master\en\.\..\gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7"
+       width="456.58945"
+       height="261.05905"
+       x="1366.5333"
+       y="435.66666"
+       ry="40"
+       rx="40" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1287.9562,804.69125 c -2.3726,-48.11045 10.1998,-102.00947 18.1937,-112.95934 3.1988,0.86242 18.9006,18.62975 18.9006,18.62975 0,0 73.4226,-141.05933 116.098,-161.78266 9.5804,-4.65225 36.6834,-14.11398 2.5863,22.28059 -34.0971,36.39457 -113.8187,149.01883 -113.6551,167.47568 -8.8102,-3.73425 -16.9173,-15.12982 -19.3721,-17.88533 -10.1199,5.38582 -24.1474,69.23793 -22.7514,84.24131 z"
+       id="path4456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccszccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0"
+       width="440.46036"
+       height="155.10812"
+       x="1886.5323"
+       y="1341.4989"
+       ry="40"
+       rx="45.656013" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2192.6047,1464.2863 c -25.0108,27.1285 -2.0561,271.3313 83.4201,284.9495 -1.6379,7.2112 -29.3802,33.6228 -38.2077,38.9428 23.1156,-12.3173 55.6405,-32.3554 56.5803,-44.6937 -71.8085,5.3997 -108.6969,-229.5705 -79.3282,-275.7342 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0-6"
+       width="381.07178"
+       height="198.51482"
+       x="1958.4304"
+       y="1517.6171"
+       ry="40"
+       rx="40" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-7"
+       width="605.9566"
+       height="265.11411"
+       x="917.35803"
+       y="2044.0802"
+       ry="40"
+       rx="40" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1579.6622,2295.0708 c -16.2878,-47.6331 -28.9561,-50.5494 -38.005,-54.4378 -1.2063,4.8605 -4.2226,12.6373 -4.2226,12.6373 0,0 -17.4944,-10.6931 -24.7335,-10.6931 -7.2389,0 -7.2389,16.5258 -7.2389,16.5258 0,0 33.7821,22.3583 40.4179,31.1072 3.0162,-13.6094 5.4292,-19.442 5.4292,-25.2746 5.4295,-0.9721 22.3205,13.6094 28.3529,30.1352 z"
+       id="path4456-6"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="19.942486"
+       inkscape:transform-center-y="41.5879" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3"
+       width="421.04874"
+       height="374.23227"
+       x="409.11722"
+       y="1942.4945"
+       ry="40"
+       rx="37.14204" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 613.19842,2000.0869 c 2.64799,-3.1047 -30.76851,-40.0426 -30.76851,-40.0426 0,0 7.3568,-25.419 6.83945,-29.9059 -7.10705,-9.4953 -31.75268,-23.7882 -31.75268,-23.7882 l 20.47161,-49.6306 -1.60453,42.2469 38.75844,22.0522 -5.21058,32.4539 33.85028,23.5924 z"
+       id="path4448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 705.38428,2424.3932 c -54.09593,5.607 -64.7378,23.2704 -74.00168,35.1834 3.71843,3.6849 8.98597,11.192 8.98597,11.192 0,0 -25.65759,15.1626 -30.20395,25.9054 -4.54642,10.743 7.95972,35.8726 7.95972,35.8726 0,0 49.34266,-53.4767 61.56725,-59.9145 -10.63895,-9.7802 -14.49488,-15.6343 -19.86627,-17.9076 2.51456,-8.4359 26.55128,-27.8196 45.55896,-30.3313 z"
+       id="path4456-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-28.519271"
+       inkscape:transform-center-y="49.4025"
+       sodipodi:nodetypes="cccscccc" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0-1"
+       width="496.73004"
+       height="311.2926"
+       x="126.48525"
+       y="2428.8579"
+       ry="33.72908"
+       rx="42.971199" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1243.4813,2754.3032 c -13.7096,-24.0351 -2.6957,-68.2648 87.536,-72.275 76.4546,-3.3978 101.6936,30.7348 103.9489,38.0344 2.2552,7.2994 22.6313,50.2723 -49.5385,61.2216 -72.1701,10.9492 -128.2369,-2.9459 -141.9464,-26.981 z"
+       id="path3525-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zscsz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1198.6768,2805.1502 c 40.634,-7.198 63.5285,-19.6293 73.2215,-66.9749 9.693,-47.3455 18.2676,-34.7655 18.2676,-34.7655 l 11.8509,31.6276 c -3.8962,-1.8542 -5.4671,79.997 -103.34,70.1128 z"
+       id="path3072"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1604.2745"
+       y="493.19434"
+       id="text4246-2-3-1-3-9-9-6-2"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1604.2745"
+         y="493.19434"
+         id="tspan4273">Ja nerokkaiden</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1604.2745"
+         y="549.44434"
+         id="tspan5016">insinööriemme</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1604.2745"
+         y="605.69434"
+         id="tspan5012">ansiosta tekin</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="1604.2745"
+         y="661.94434"
+         id="tspan3398">voitte osallistua!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="608.28955"
+       y="2007.1349"
+       id="text4246-2-3-1-3-9-9-6"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2007.1349"
+         id="tspan4197">Aivan niin, hyvät</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2063.3848"
+         id="tspan3400">katsojat, ihailkaa</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2119.6348"
+         id="tspan5050">näitä tekniikan</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2175.8848"
+         id="tspan5038">ihmeitä, jotka</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2232.1348"
+         id="tspan3415">avustajamme</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="608.28955"
+         y="2288.3848"
+         id="tspan3413">jakavat teille!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1220.4257"
+       y="2104.7434"
+       id="text4246-2-3-1-3-9-9-6-5"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         x="1220.4257"
+         y="2104.7434"
+         style="font-size:45px;line-height:1.25"
+         id="tspan5070">Vihreä nappi antaa</tspan><tspan
+         sodipodi:role="line"
+         x="1220.4257"
+         y="2160.9934"
+         style="font-size:45px;line-height:1.25"
+         id="tspan3419">ehdokkaalle pisteen,</tspan><tspan
+         sodipodi:role="line"
+         x="1220.4257"
+         y="2217.2434"
+         style="font-size:45px;line-height:1.25"
+         id="tspan5068">punainen nappi poistaa.</tspan><tspan
+         sodipodi:role="line"
+         x="1220.4257"
+         y="2273.4934"
+         style="font-size:45px;line-height:1.25"
+         id="tspan5065">Te pääsette päättämään!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="2106.1616"
+       y="1405.9927"
+       id="text4246-2-3-1-3-9-9-6-9-3"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2106.1616"
+         y="1405.9927"
+         id="tspan4377-6">&quot;Entä sitten raati?&quot;,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2106.1616"
+         y="1462.2427"
+         id="tspan3559-5">taidatte ihmetellä.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="2146.9834"
+       y="1579.5059"
+       id="text4246-2-3-1-3-9-9-6-9"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2146.9834"
+         y="1579.5059"
+         id="tspan5077">Ei huolta,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2146.9834"
+         y="1635.7559"
+         id="tspan3423">olemme ajatelleet</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="2146.9834"
+         y="1692.0059"
+         id="tspan5083">kaikkea!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="371.61154"
+       y="2486.3821"
+       id="text4246-2-3-1-3-9-9-6-9-8"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.61154"
+         y="2486.3821"
+         id="tspan5111">Jokaisella raatilaisella</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.61154"
+         y="2542.6321"
+         id="tspan5125">on erikoislähetin,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.61154"
+         y="2598.8821"
+         id="tspan5107">jolla voi lisätä tai</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.61154"
+         y="2655.1321"
+         id="tspan3432">vähentää sata pistettä</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25"
+         x="371.61154"
+         y="2711.3821"
+         id="tspan5105">yhdellä painalluksella!</tspan></text>
+    <text
+       id="text4250"
+       y="2751.4998"
+       x="1339.1047"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         y="2751.4998"
+         x="1339.1047"
+         id="tspan4260"
+         sodipodi:role="line"
+         style="font-size:45px;line-height:1.25">Wau!</tspan></text>
+  </g>
+</svg>
