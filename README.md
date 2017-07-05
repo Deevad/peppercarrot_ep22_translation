@@ -35,6 +35,8 @@ License
 
 * Mexicano: Quiralta
 
+* Norwegian: Thomas Nordstrøm
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre E. Almeida
