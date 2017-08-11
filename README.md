@@ -15,9 +15,15 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Kateřina Fleknová
+
 * Dutch: Willem Sonke, corrections: Midgard
 
 * English: Alex Gryson
+
+* Farsi: Aslan Zamanloo
+
+* Finnish: Kari Lehto
 
 * French: Deevad, Nartance, Valvin, Calimeroteknik.
 
@@ -28,6 +34,10 @@ License
 * Japanese: guruguru
 
 * Mexicano: Quiralta
+
+* Norwegian: Thomas Nordstrøm
+
+* Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre E. Almeida
 
