@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="5000"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P11.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="1221.5156"
+     inkscape:cy="4678.8818"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1425.8203,4914.3274"
+       orientation="0,1"
+       id="guide4214"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     transform="translate(0,1024)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep22_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P11.png"
+       y="-1023.3771"
+       x="0.54707891"
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5000"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline"
+     transform="translate(0,1024)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline;opacity:0.85500004"
+     transform="translate(0,1024)">
+    <text
+       id="text4151"
+       y="-810.55609"
+       x="1241.6194"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.51891518px;line-height:0%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         id="tspan4153"
+         y="-810.55609"
+         x="1241.6194"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.2972908px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         sodipodi:role="line">대사 수정: Nicolas Artance, Valvin, Craig Maloney.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.73429489px;line-height:0%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       x="1241.0287"
+       y="-630.23309"
+       id="text4229"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         x="1241.0287"
+         y="-630.23309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.33573532px;line-height:1.25;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#241c1c;stroke:none"
+         id="tspan4169">소프트웨어 : 리눅스 민트 18.1에서 크리타 3.1.3, 잉크스케이프 0.92.1 사용</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.36806297px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       x="1243.3025"
+       y="-861.13708"
+       id="text4246-42"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.63023376px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#241c1c;stroke:none"
+         x="1243.3025"
+         y="-861.13708"
+         id="tspan4252-9">2017/05 - www.peppercarrot.com - 그림 및 이야기: David Revoy - 한글 번역: Jihoon Kim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.01338959px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       x="1238.975"
+       y="-437.3053"
+       id="text4162-7"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="1238.975"
+         y="-437.3053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
+         id="tspan3382" /><tspan
+         sodipodi:role="line"
+         x="1238.975"
+         y="-381.85413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
+         id="tspan3368">후추와 당근은 후원자들의 도움으로 완전히 무료이고 오픈소스이며</tspan><tspan
+         sodipodi:role="line"
+         x="1238.975"
+         y="-326.40295"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
+         id="tspan3370">재정적 지원을 받고 있습니다.</tspan><tspan
+         sodipodi:role="line"
+         x="1238.975"
+         y="-270.95175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
+         id="tspan3372">이번 화를 후원해 주신 864명에게 감사드립니다:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.81491089px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+       x="1242.2913"
+       y="-671.57635"
+       id="text4246-42-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.67642975px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         x="1242.2914"
+         y="-671.57635"
+         id="tspan4252-9-9">David Revoy님이 Craig Maloney님의 도움으로 제작한 헤레바 세계관을 기반으로 함. 수정: Willem Sonke, Moini, Hali, CGand, Alex Gryson.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4179"
+       y="-588.09833"
+       x="1240.2599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.35060501px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.43656921px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#241c1c;stroke:none"
+         y="-588.09833"
+         x="1240.2599"
+         sodipodi:role="line">라이선스: 크리에이티브 커먼즈 저작자표시 4.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.99899292px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       x="1236.8247"
+       y="3845.6101"
+       id="text4221-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4223-6"
+         x="1236.8247"
+         y="3845.6101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.31197739px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37">여러분도 www.patreon.com/davidrevoy에서 후추와 당근의 다음 화의 후원자가 될 수 있습니다</tspan></text>
+  </g>
+</svg>
