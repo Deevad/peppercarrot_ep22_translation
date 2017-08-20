@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E22P02.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.41468262"
+     inkscape:cx="1087.6272"
+     inkscape:cy="570.61129"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-text-baseline="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep22_translation/ko/../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E22P02.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7"
+       width="420.41721"
+       height="261.05905"
+       x="1366.5333"
+       y="435.66666"
+       ry="40"
+       rx="36.831093" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1287.9562,804.69125 c -2.3726,-48.11045 10.1998,-102.00947 18.1937,-112.95934 3.1988,0.86242 18.9006,18.62975 18.9006,18.62975 0,0 73.4226,-141.05933 116.098,-161.78266 9.5804,-4.65225 36.6834,-14.11398 2.5863,22.28059 -34.0971,36.39457 -113.8187,149.01883 -113.6551,167.47568 -8.8102,-3.73425 -16.9173,-15.12982 -19.3721,-17.88533 -10.1199,5.38582 -24.1474,69.23793 -22.7514,84.24131 z"
+       id="path4456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccszccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0"
+       width="438.94733"
+       height="212.9837"
+       x="1910.4047"
+       y="1329.4414"
+       ry="54.925224"
+       rx="45.49918" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2205.695,1490.8125 c -27.7196,26.5226 -2.2788,265.2709 92.4548,278.5849 -1.8152,7.0501 -32.5622,32.8718 -42.3457,38.073 25.6191,-12.0422 61.6666,-31.6328 62.7081,-43.6955 -79.5856,5.2791 -120.4692,-224.4428 -87.9197,-269.5754 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.64763379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0-6"
+       width="381.07178"
+       height="198.51482"
+       x="1968.0764"
+       y="1553.7893"
+       ry="40"
+       rx="40" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-7"
+       width="605.9566"
+       height="265.11411"
+       x="917.35803"
+       y="2044.0802"
+       ry="40"
+       rx="40" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1579.6622,2295.0708 c -16.2878,-47.6331 -28.9561,-50.5494 -38.005,-54.4378 -1.2063,4.8605 -4.2226,12.6373 -4.2226,12.6373 0,0 -17.4944,-10.6931 -24.7335,-10.6931 -7.2389,0 -7.2389,16.5258 -7.2389,16.5258 0,0 33.7821,22.3583 40.4179,31.1072 3.0162,-13.6094 5.4292,-19.442 5.4292,-25.2746 5.4295,-0.9721 22.3205,13.6094 28.3529,30.1352 z"
+       id="path4456-6"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="19.942486"
+       inkscape:transform-center-y="41.5879" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3"
+       width="453.44708"
+       height="345.29446"
+       x="376.71887"
+       y="1942.4945"
+       ry="36.906971"
+       rx="40" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 613.19842,2000.0869 c 2.64799,-3.1047 -30.76851,-40.0426 -30.76851,-40.0426 0,0 7.3568,-25.419 6.83945,-29.9059 -7.10705,-9.4953 -31.75268,-23.7882 -31.75268,-23.7882 l 20.47161,-49.6306 -1.60453,42.2469 38.75844,22.0522 -5.21058,32.4539 33.85028,23.5924 z"
+       id="path4448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 705.38428,2424.3932 c -54.09593,5.607 -64.7378,23.2704 -74.00168,35.1834 3.71843,3.6849 8.98597,11.192 8.98597,11.192 0,0 -25.65759,15.1626 -30.20395,25.9054 -4.54642,10.743 7.95972,35.8726 7.95972,35.8726 0,0 49.34266,-53.4767 61.56725,-59.9145 -10.63895,-9.7802 -14.49488,-15.6343 -19.86627,-17.9076 2.51456,-8.4359 26.55128,-27.8196 45.55896,-30.3313 z"
+       id="path4456-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-28.519271"
+       inkscape:transform-center-y="49.4025"
+       sodipodi:nodetypes="cccscccc" />
+    <rect
+       style="color:#000000;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4632-8-6-1-3-6-7-3-0-1"
+       width="486.49899"
+       height="311.2926"
+       x="133.30595"
+       y="2428.8579"
+       ry="33.72908"
+       rx="42.086128" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1242.7192,2754.3032 c -11.5682,-24.0351 -2.2746,-68.2648 73.8638,-72.275 64.5131,-3.3978 85.8101,30.7348 87.7131,38.0344 1.903,7.2994 19.0965,50.2723 -41.8011,61.2216 -60.8978,10.9492 -108.2075,-2.9459 -119.7758,-26.981 z"
+       id="path3525-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zscsz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1198.6768,2805.1502 c 40.634,-7.198 63.5285,-19.6293 73.2215,-66.9749 9.693,-47.3455 18.2676,-34.7655 18.2676,-34.7655 l 11.8509,31.6276 c -3.8962,-1.8542 -5.4671,79.997 -103.34,70.1128 z"
+       id="path3072"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99258614px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1572.7213"
+       y="497.71365"
+       id="text4246-2-3-1-3-9-9-6-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97219849px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1572.7213"
+         y="497.71365"
+         id="tspan4273">그리고 저희 훌륭한</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97219849px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1572.7213"
+         y="557.68579"
+         id="tspan3401">기술자들 덕분에,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97219849px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1572.7213"
+         y="617.65802"
+         id="tspan5012">여러분들도 참여하실 수</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97219849px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1572.7213"
+         y="677.63019"
+         id="tspan3411">있습니다!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.53128815px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="601.34833"
+       y="2032.6487"
+       id="text4246-2-3-1-3-9-9-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.74234009px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="601.34833"
+         y="2032.6487"
+         id="tspan4197">네, 네, 여러분,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.74234009px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="601.34833"
+         y="2098.3911"
+         id="tspan5042">저희 직원들이 전해드릴</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.74234009px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="601.34833"
+         y="2164.1333"
+         id="tspan3413">이 경이로운 기기로</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.74234009px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="601.34833"
+         y="2229.8757"
+         id="tspan5038"> 눈 호강 한번 하시죠!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.41456032px;line-height:100%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1224.3232"
+       y="2107.7668"
+       id="text4246-2-3-1-3-9-9-6-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="1224.3232"
+         y="2107.7668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.55460358px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         id="tspan5068">초록색 버튼은 참가자에게</tspan><tspan
+         sodipodi:role="line"
+         x="1224.3232"
+         y="2169.3215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.55460358px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         id="tspan3440">점수를 주고, 빨간색 버튼은</tspan><tspan
+         sodipodi:role="line"
+         x="1224.3232"
+         y="2230.876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.55460358px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         id="tspan3442">점수를 깎습니다.</tspan><tspan
+         sodipodi:role="line"
+         x="1224.3232"
+         y="2292.4307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.55460358px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         id="tspan5065">여러분들께서 결정하시는 겁니다!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.60872078px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="2135.3638"
+       y="1395.1259"
+       id="text4246-2-3-1-3-9-9-6-9-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.2827034px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2135.3638"
+         y="1395.1259"
+         id="tspan4377-6">&quot;그럼 심사위원들은요?&quot;,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.2827034px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2135.3638"
+         y="1457.4086"
+         id="tspan3559-5">하고 궁금해하는</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.2827034px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2135.3638"
+         y="1519.6913"
+         id="tspan3444">분들이 계실 텐데요,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2392292px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="2161.7739"
+       y="1611.932"
+       id="text4246-2-3-1-3-9-9-6-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.89710617px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2161.7739"
+         y="1611.932"
+         id="tspan5083">걱정 마십시오,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.89710617px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2161.7739"
+         y="1672.8291"
+         id="tspan3458">저희가 다 생각해</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.89710617px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2161.7739"
+         y="1733.7262"
+         id="tspan3460">뒀습니다!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49683952px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="384.13608"
+       y="2508.0063"
+       id="text4246-2-3-1-3-9-9-6-9-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.61315155px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="384.13608"
+         y="2508.0063"
+         id="tspan5105">심사위원에게는 한번에</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.61315155px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="384.13608"
+         y="2573.6194"
+         id="tspan3470">백 점을 올리고 내릴 수</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.61315155px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="384.13608"
+         y="2639.2327"
+         id="tspan3472">있는 특수 리모컨이</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.61315155px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="384.13608"
+         y="2704.8457"
+         id="tspan3478">주어집니다!</tspan></text>
+    <text
+       id="text4250"
+       y="2761.573"
+       x="1325.403"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.53316307px;line-height:0%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
+         y="2761.573"
+         x="1325.403"
+         id="tspan4260"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:73.24935913px;line-height:1.25;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'">우와!</tspan></text>
+  </g>
+</svg>

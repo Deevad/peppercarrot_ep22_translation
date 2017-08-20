@@ -33,6 +33,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Jihoon Kim
+
 * Mexicano: Quiralta
 
 * Norwegian: Thomas Nordstrøm
